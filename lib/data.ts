@@ -64,6 +64,14 @@ export const USERS: User[] = [
     role: 'driver',
     email: 'r.martinez@linde.com',
   },
+  {
+    id: 'driver-004',
+    username: 'chofer.jesus',
+    password: 'jesus',
+    name: 'Jesús',
+    role: 'driver',
+    email: 'jesus@linde.com',
+  },
 ]
 
 export const UNITS: Unit[] = [
