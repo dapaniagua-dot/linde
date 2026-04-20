@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Animation keyframes ───────────────────────────────────── */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0);    }
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+@keyframes scaleIn {
+  from { opacity: 0; transform: scale(0.94); }
+  to   { opacity: 1; transform: scale(1);    }
+}
+@keyframes slideRight {
+  from { opacity: 0; transform: translateX(-16px); }
+  to   { opacity: 1; transform: translateX(0);     }
+}
+@keyframes orbFloat {
+  0%, 100% { transform: translateY(0)   scale(1);    opacity: 0.18; }
+  50%       { transform: translateY(-24px) scale(1.06); opacity: 0.28; }
+}
+@keyframes progressGrow {
+  from { width: 0%; }
+  to   { width: var(--pw); }
+}
+@keyframes shimmerSlide {
+  0%   { background-position: -200% center; }
+  100% { background-position:  200% center; }
+}
+@keyframes pulseSoft {
+  0%, 100% { opacity: 1;   }
+  50%       { opacity: 0.6; }
+}
+
+/* ── Animation utility classes ─────────────────────────────── */
+.anim-fade-up   { animation: fadeInUp  0.45s cubic-bezier(0.22,1,0.36,1) both; }
+.anim-fade-in   { animation: fadeIn    0.3s  ease-out both; }
+.anim-scale-in  { animation: scaleIn   0.35s cubic-bezier(0.22,1,0.36,1) both; }
+.anim-slide-r   { animation: slideRight 0.35s cubic-bezier(0.22,1,0.36,1) both; }
+.anim-orb       { animation: orbFloat  8s    ease-in-out infinite; }
+.anim-progress  { animation: progressGrow 0.8s cubic-bezier(0.22,1,0.36,1) forwards; }
+.anim-shimmer   {
+  background: linear-gradient(90deg,transparent 0%,rgba(255,255,255,0.08) 50%,transparent 100%);
+  background-size: 200% 100%;
+  animation: shimmerSlide 2.5s ease-in-out infinite;
+}
+
+/* Respect prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  .anim-fade-up, .anim-fade-in, .anim-scale-in,
+  .anim-slide-r, .anim-orb, .anim-progress {
+    animation: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
+
+/* ── Base ───────────────────────────────────────────────────── */
+html {
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  color: #111827;
+  min-height: 100dvh;
+}
+
+/* ── Touch / interactive ────────────────────────────────────── */
+button, a, [role="button"] {
+  min-height: 44px;
+  touch-action: manipulation;
+}
+
+/* ── Focus ring ─────────────────────────────────────────────── */
+:focus-visible {
+  outline: 2px solid #FF6B00;
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* ── Scrollbar ──────────────────────────────────────────────── */
+::-webkit-scrollbar       { width: 5px; }
+::-webkit-scrollbar-track { background: rgba(255,255,255,0.03); }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.25); }
+
+/* ── Glass card ─────────────────────────────────────────────── */
+.glass {
+  background: rgba(255,255,255,0.06);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.10);
+}
+.glass-hover {
+  transition: background 150ms ease, border-color 150ms ease, box-shadow 150ms ease, transform 150ms ease;
+}
+.glass-hover:hover {
+  background: rgba(255,255,255,0.10);
+  border-color: rgba(255,255,255,0.18);
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px rgba(0,0,0,0.35), 0 0 0 1px rgba(255,255,255,0.08);
+}
+
+/* ── Glow effects ───────────────────────────────────────────── */
+.glow-orange {
+  box-shadow: 0 0 24px rgba(255,107,0,0.35), 0 4px 16px rgba(0,0,0,0.4);
+}
+.glow-blue {
+  box-shadow: 0 0 20px rgba(59,130,246,0.3), 0 4px 12px rgba(0,0,0,0.4);
+}
+
+/* ── Orange button ──────────────────────────────────────────── */
+.btn-orange {
+  background: #FF6B00;
+  color: white;
+  font-weight: 700;
+  transition: background 150ms ease, transform 100ms ease, box-shadow 150ms ease;
+}
+.btn-orange:hover:not(:disabled) {
+  background: #e05f00;
+  box-shadow: 0 0 20px rgba(255,107,0,0.4);
+  transform: translateY(-1px);
+}
+.btn-orange:active:not(:disabled) {
+  transform: scale(0.97);
+}
+.btn-orange:disabled {
+  background: rgba(255,255,255,0.12);
+  color: rgba(255,255,255,0.3);
+  cursor: not-allowed;
+}
+
+/* ── Linde sky-blue button ──────────────────────────────────── */
+.btn-sky {
+  background: #00A0D6;
+  color: white;
+  font-weight: 700;
+  transition: background 150ms ease, transform 100ms ease, box-shadow 150ms ease;
+}
+.btn-sky:hover:not(:disabled) {
+  background: #0090c0;
+  box-shadow: 0 0 20px rgba(0,160,214,0.4);
+  transform: translateY(-1px);
+}
+.btn-sky:active:not(:disabled) {
+  transform: scale(0.97);
+}
+.glow-sky {
+  box-shadow: 0 0 24px rgba(0,160,214,0.35), 0 4px 16px rgba(0,0,0,0.4);
+}

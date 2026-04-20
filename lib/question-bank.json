@@ -1,0 +1,4826 @@
+{
+  "clase_01": [
+    {
+      "pregunta": "¿Cuántas veces más pesado que el aire es el CO₂?",
+      "a": "1.5 veces",
+      "b": "2.0 veces",
+      "c": "0.5 veces",
+      "d": "3.0 veces",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es una característica del CO₂ que lo hace especialmente peligroso?",
+      "a": "Tiene un olor fuerte que permite detectarlo",
+      "b": "Es más liviano que el aire y se disipa rápido",
+      "c": "Es incoloro e inodoro, lo que dificulta su detección",
+      "d": "Cambia de color al alcanzar concentraciones peligrosas",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿A qué temperatura aproximada se almacena el CO₂ líquido en las cisternas?",
+      "a": "-40°C",
+      "b": "0°C",
+      "c": "-78.5°C",
+      "d": "-18°C",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿A qué temperatura se forma el hielo seco (CO₂ sólido) durante una despresurización rápida?",
+      "a": "-78.5°C",
+      "b": "-40°C",
+      "c": "-18°C",
+      "d": "-100°C",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué problema puede causar la formación de hielo seco en las válvulas?",
+      "a": "Corrosión inmediata del metal",
+      "b": "Aumento de la conductividad eléctrica",
+      "c": "Bloqueo de válvulas impidiendo el flujo",
+      "d": "Dilatación excesiva de las juntas",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿A partir de qué concentración de CO₂ en el ambiente se produce pérdida de conciencia sin aviso previo?",
+      "a": "2%",
+      "b": "Mayor al 8%",
+      "c": "5%",
+      "d": "15%",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Por qué el CO₂ tiende a acumularse en zonas bajas?",
+      "a": "Porque reacciona con el suelo",
+      "b": "Porque es atraído por la humedad del piso",
+      "c": "Porque se condensa rápidamente a temperatura ambiente",
+      "d": "Porque es 1.5 veces más pesado que el aire",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es el rango normal de presión (zona verde) del manómetro de una cisterna de CO₂?",
+      "a": "220-300 PSIG",
+      "b": "100-200 PSIG",
+      "c": "350-400 PSIG",
+      "d": "150-220 PSIG",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Un operador nota escarcha en una conexión de la cisterna. ¿Qué indica esto?",
+      "a": "Que el sistema de refrigeración funciona correctamente",
+      "b": "Que existe una fuga de CO₂ líquido en esa conexión",
+      "c": "Que hay condensación normal por la humedad ambiente",
+      "d": "Que la temperatura ambiente es muy baja",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué señal auditiva indica una fuga de gas a alta presión?",
+      "a": "Un burbujeo constante",
+      "b": "Un golpeteo rítmico",
+      "c": "Un silbido agudo",
+      "d": "Un zumbido grave",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Un sonido de burbujeo en una conexión de la cisterna indica:",
+      "a": "Funcionamiento normal del condensador",
+      "b": "Activación de la válvula de seguridad",
+      "c": "Sobrepresión en el tanque",
+      "d": "Fuga en zona de líquido",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes síntomas indica exposición a CO₂?",
+      "a": "Dolor de cabeza, mareo y dificultad para respirar",
+      "b": "Euforia y sensación de calor",
+      "c": "Sarpullido en la piel",
+      "d": "Aumento del apetito",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "El zumbido en los oídos y la visión borrosa en un operador cerca de una cisterna indican:",
+      "a": "Fatiga por exceso de trabajo",
+      "b": "Efecto secundario del uso del respirador",
+      "c": "Hipoxia avanzada por exposición a CO₂",
+      "d": "Deshidratación",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué tipo de guantes está PROHIBIDO usar para manipular CO₂ criogénico?",
+      "a": "Guantes criogénicos certificados",
+      "b": "Guantes con aislamiento térmico especial",
+      "c": "Guantes de protección criogénica multicapa",
+      "d": "Guantes de cuero, tela o nitrilo",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué EPP es obligatorio para TODAS las operaciones con CO₂?",
+      "a": "Guantes criogénicos, gafas herméticas, respirador con filtros vigentes",
+      "b": "Solo guantes y casco",
+      "c": "Solo respirador y botas de seguridad",
+      "d": "Guantes de nitrilo y careta facial",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuándo se debe realizar la inspección visual del EPP?",
+      "a": "Una vez por semana",
+      "b": "Solo cuando el EPP se ve dañado",
+      "c": "Antes de cada operación",
+      "d": "Al inicio de cada mes",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuántos pasos tiene la lista de verificación pre-operación?",
+      "a": "5 pasos",
+      "b": "6 pasos",
+      "c": "10 pasos",
+      "d": "8 pasos",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es el primer paso de la lista de verificación pre-operación?",
+      "a": "Inspección visual de la cisterna",
+      "b": "Comunicación con el centro de control",
+      "c": "Revisión de válvulas",
+      "d": "Colocación del EPP",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Durante la verificación pre-operación, ¿qué documento NO es necesario revisar?",
+      "a": "MSDS (Hoja de seguridad)",
+      "b": "Guía de emergencia",
+      "c": "Certificado de estudios del conductor",
+      "d": "Permisos de ruta",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué se debe verificar en las mangueras durante la inspección pre-operación?",
+      "a": "Solo que estén conectadas",
+      "b": "Su estado general incluyendo la fecha de vencimiento",
+      "c": "Únicamente el color exterior",
+      "d": "Solo la longitud",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la condición correcta para estacionar la cisterna antes de operar?",
+      "a": "En pendiente para facilitar la descarga por gravedad",
+      "b": "Cerca de desagües para ventilación",
+      "c": "Sobre terreno firme y nivelado con freno de mano y calzas",
+      "d": "En zona techada para proteger del sol",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "En el procedimiento LOTO, ¿qué significa la etiqueta de advertencia?",
+      "a": "Indica el tipo de producto almacenado",
+      "b": "Señala la ruta de evacuación",
+      "c": "Muestra el nivel de llenado del tanque",
+      "d": "Contiene nombre, fecha y motivo del bloqueo",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Según el procedimiento LOTO, ¿quién puede retirar un candado de bloqueo?",
+      "a": "Solo la persona que lo colocó",
+      "b": "Cualquier operador del turno",
+      "c": "El supervisor de seguridad",
+      "d": "El conductor más experimentado",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es el primer paso del procedimiento LOTO?",
+      "a": "Colocar candados en las válvulas",
+      "b": "Identificar las fuentes de energía",
+      "c": "Colocar etiquetas de advertencia",
+      "d": "Verificar el aislamiento",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué distancia mínima debe mantenerse libre alrededor de los puntos de conexión?",
+      "a": "2 metros",
+      "b": "3 metros",
+      "c": "5 metros",
+      "d": "10 metros",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué señalización debe colocarse en el área de trabajo?",
+      "a": "Solo conos de tráfico",
+      "b": "Solo carteles de 'No fumar'",
+      "c": "Banderas rojas en el perímetro",
+      "d": "Conos, cinta de seguridad, carteles de 'Peligro: gas asfixiante' y 'No fumar'",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es el propósito de la purga de línea antes de la desconexión?",
+      "a": "Eliminar la presión residual para evitar liberaciones violentas",
+      "b": "Enfriar la manguera para su almacenamiento",
+      "c": "Verificar el caudal de transferencia",
+      "d": "Calibrar el manómetro",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es el orden correcto del procedimiento de purga de línea?",
+      "a": "Abrir venteo, cerrar suministro, esperar presión cero",
+      "b": "Desconectar manguera, abrir venteo, cerrar suministro",
+      "c": "Cerrar válvula de suministro, abrir lentamente válvula de venteo, esperar presión cero, confirmar visualmente",
+      "d": "Esperar presión cero, cerrar suministro, abrir venteo",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "En el Caso Real 1, ¿por qué el operador perdió el conocimiento al agacharse?",
+      "a": "Por golpe de calor",
+      "b": "Porque el CO₂ se acumula a nivel del suelo por ser más pesado que el aire",
+      "c": "Por una descarga eléctrica",
+      "d": "Por fatiga extrema",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "En el Caso Real 2, ¿qué error cometió el operador al desconectar la manguera?",
+      "a": "No usó guantes criogénicos",
+      "b": "Desconectó la manguera equivocada",
+      "c": "No realizó la purga de la línea antes de desconectar",
+      "d": "Abrió la válvula principal durante la desconexión",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuánta presión residual causó la liberación violenta en el Caso Real 2?",
+      "a": "20 PSIG",
+      "b": "50 PSIG",
+      "c": "150 PSIG",
+      "d": "80 PSIG",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "En el Caso Real 3, ¿qué le ocurrió al operador que usó guantes de cuero?",
+      "a": "Los guantes de cuero se adhirieron a la válvula congelada causando quemaduras de 2° grado",
+      "b": "Los guantes se rompieron por el frío",
+      "c": "Sufrió una descarga eléctrica por los guantes mojados",
+      "d": "Los guantes se derritieron por el calor",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuántos días de incapacidad resultaron del incidente con guantes de cuero (Caso Real 3)?",
+      "a": "3 días",
+      "b": "10 días",
+      "c": "5 días",
+      "d": "30 días",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la Regla de Oro número 1?",
+      "a": "Siempre usar EPP completo",
+      "b": "Verificar la ventilación del área",
+      "c": "Siempre verificar el manómetro",
+      "d": "Purgar antes de desconectar",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la Regla de Oro número 5?",
+      "a": "Siempre verificar el manómetro",
+      "b": "Usar EPP completo siempre",
+      "c": "Purgar siempre antes de desconectar",
+      "d": "Ante la duda, DETENERSE",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Un operador siente una sensación de frío intenso en la mano mientras opera una válvula. ¿Qué debe hacer?",
+      "a": "Detenerse inmediatamente, puede haber contacto con CO₂ criogénico",
+      "b": "Continuar trabajando, es normal",
+      "c": "Soplar aire caliente sobre la mano y continuar",
+      "d": "Cambiar de mano y seguir operando",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Por qué un operador podría no sentir dolor inmediato al contacto con CO₂ líquido?",
+      "a": "Porque los guantes siempre protegen completamente",
+      "b": "Porque el CO₂ tiene propiedades anestésicas locales por el frío extremo",
+      "c": "Porque el CO₂ líquido no es peligroso al tacto",
+      "d": "Porque la piel se adapta rápidamente a la temperatura",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Si el manómetro marca 180 PSIG, ¿qué indica?",
+      "a": "Presión normal de operación",
+      "b": "Presión de sobrecarga",
+      "c": "Presión por debajo del rango verde, posible problema",
+      "d": "El manómetro está descalibrado",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Si el manómetro marca 350 PSIG, ¿qué situación representa?",
+      "a": "Presión normal alta",
+      "b": "Presión óptima de transferencia",
+      "c": "Presión de almacenamiento estándar",
+      "d": "Sobrepresión peligrosa, fuera del rango verde",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué indica la presencia de niebla blanca cerca de una conexión?",
+      "a": "Condensación normal por humedad",
+      "b": "Posible fuga de CO₂ que se hace visible al contacto con el aire",
+      "c": "Vapor de agua del sistema de calefacción",
+      "d": "Funcionamiento correcto del evaporador",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes es una señal visual de alerta?",
+      "a": "Manguera flexible en buen estado",
+      "b": "Manómetro estable en zona verde",
+      "c": "Deformación visible en la manguera",
+      "d": "Válvulas sin escarcha",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué acción se debe tomar si se activa la válvula de seguridad con un venteo fuerte y continuo?",
+      "a": "Cerrar manualmente la válvula de seguridad",
+      "b": "Aumentar la presión del tanque para estabilizar",
+      "c": "Ignorar si dura menos de 5 minutos",
+      "d": "Evacuar el área y reportar inmediatamente al centro de control",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué relación existe entre la temperatura ambiente y la presión interna del tanque de CO₂?",
+      "a": "A mayor temperatura ambiente, mayor presión interna",
+      "b": "No hay relación entre ambas variables",
+      "c": "A mayor temperatura ambiente, menor presión interna",
+      "d": "La presión solo depende del nivel de llenado",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes NO es un estado físico en que se presenta el CO₂ en operaciones de transporte?",
+      "a": "Gas",
+      "b": "Líquido",
+      "c": "Sólido (hielo seco)",
+      "d": "Plasma",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿En qué estado se encuentra el CO₂ cuando se ventea a la atmósfera?",
+      "a": "Líquido",
+      "b": "Sólido",
+      "c": "Gaseoso",
+      "d": "Supercrítico",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué se debe verificar la comunicación con el centro de control antes de operar?",
+      "a": "Para confirmar el precio del producto",
+      "b": "Para registrar la hora de llegada al cliente",
+      "c": "Para asegurar asistencia en caso de emergencia y coordinar la operación",
+      "d": "Para solicitar autorización de descuento",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Un operador observa que la manguera está vencida. ¿Qué debe hacer?",
+      "a": "Usarla con precaución extra",
+      "b": "Usarla solo para transferencias cortas",
+      "c": "Reforzarla con cinta y continuar",
+      "d": "No realizar la operación y reportar la situación",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál de las tres categorías de riesgo del CO₂ se relaciona con la formación de atmósferas sin oxígeno suficiente?",
+      "a": "Presión/sobrepresión",
+      "b": "Atmósferas asfixiantes",
+      "c": "Quemaduras criogénicas",
+      "d": "Explosión química",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué debe hacer un conductor si al llegar al cliente detecta que el terreno donde debe estacionar tiene pendiente pronunciada?",
+      "a": "Estacionar de todas formas y usar doble calza",
+      "b": "Estacionar en la pendiente y operar rápido",
+      "c": "Buscar un terreno firme y nivelado para estacionar antes de iniciar operaciones",
+      "d": "Pedir al cliente que nivele el terreno mientras espera",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes situaciones requiere aplicar la Regla de Oro 5 (Ante la duda, DETENERSE)?",
+      "a": "El manómetro marca 250 PSIG y todo parece normal",
+      "b": "La manguera tiene fecha de vencimiento vigente",
+      "c": "El EPP está en buenas condiciones",
+      "d": "El operador nota un sonido inusual que no puede identificar",
+      "correcta": "d"
+    }
+  ],
+  "clase_02": [
+    {
+      "pregunta": "¿Cuál es la categoría de falla más común y peligrosa en cisternas de CO₂?",
+      "a": "Sobrepresión",
+      "b": "Fugas",
+      "c": "Fallas de válvulas",
+      "d": "Problemas de carga",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuáles son las cuatro categorías principales de fallas en cisternas de CO₂?",
+      "a": "Fugas, sobrepresión, fallas de válvulas y problemas de carga/descarga",
+      "b": "Corrosión, desgaste, fatiga y rotura",
+      "c": "Eléctricas, mecánicas, neumáticas e hidráulicas",
+      "d": "Internas, externas, estructurales y funcionales",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es el rango de presión operativa normal de una cisterna de CO₂?",
+      "a": "100-200 PSIG",
+      "b": "150-250 PSIG",
+      "c": "220-320 PSIG",
+      "d": "350-400 PSIG",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes NO es una causa de sobrepresión en la cisterna?",
+      "a": "Falla del condensador",
+      "b": "Presostato descalibrado",
+      "c": "Exposición directa al sol",
+      "d": "Nivel de líquido muy bajo",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué voltaje y frecuencia requiere el suministro eléctrico del condensador de la cisterna?",
+      "a": "1x220V 60Hz",
+      "b": "1x110V 50Hz",
+      "c": "3x380V 50Hz",
+      "d": "3x440V 60Hz",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué ocurre si la cisterna no tiene suministro eléctrico?",
+      "a": "Las válvulas se bloquean automáticamente",
+      "b": "El nivel de líquido baja rápidamente",
+      "c": "La temperatura interna desciende bruscamente",
+      "d": "El condensador no funciona y la presión puede subir por encima del rango",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué indica la presencia de escarcha o hielo en una conexión de la cisterna?",
+      "a": "Fuga de CO₂ líquido en esa zona",
+      "b": "Funcionamiento normal del sistema de enfriamiento",
+      "c": "Condensación por alta humedad ambiente",
+      "d": "Que la cisterna está completamente llena",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Un operador detecta niebla blanca saliendo de una junta. ¿Qué tipo de falla indica?",
+      "a": "Sobrepresión general del sistema",
+      "b": "Fuga de CO₂ que se condensa al contacto con el aire",
+      "c": "Falla del condensador",
+      "d": "Venteo programado de la válvula de seguridad",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué señal auditiva indica una fuga en zona de gas?",
+      "a": "Burbujeo intermitente",
+      "b": "Golpeteo rítmico",
+      "c": "Silbido continuo",
+      "d": "Zumbido grave",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Un sonido de burbujeo en una conexión indica:",
+      "a": "Fuga en zona de gas",
+      "b": "Vibración por componente suelto",
+      "c": "Condensador funcionando normalmente",
+      "d": "Fuga en zona de líquido",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué indica un golpeteo o vibración inusual en la cisterna?",
+      "a": "Componente suelto o mal fijado",
+      "b": "Transferencia normal de producto",
+      "c": "Activación de la válvula de seguridad",
+      "d": "Formación de hielo seco",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Al tocar con EPP una zona que normalmente debería estar a temperatura ambiente y se siente muy fría, ¿qué indica?",
+      "a": "El EPP no está funcionando correctamente",
+      "b": "El aislamiento térmico está funcionando bien",
+      "c": "Posible fuga de CO₂ líquido en esa zona",
+      "d": "La temperatura ambiente bajó repentinamente",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la primera prioridad en la evaluación de riesgos ante una falla?",
+      "a": "Integridad del equipo",
+      "b": "Seguridad de las personas",
+      "c": "Continuidad operativa",
+      "d": "Calidad del servicio",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es el orden correcto de prioridades ante una falla?",
+      "a": "Equipo, personas, operación, servicio",
+      "b": "Operación, personas, equipo, servicio",
+      "c": "Personas, equipo, continuidad operativa, calidad de servicio",
+      "d": "Servicio, operación, equipo, personas",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿A qué presión y temperatura se forma el hielo seco durante la transferencia?",
+      "a": "Por debajo de 60 PSIG a -78.3°C",
+      "b": "Por debajo de 100 PSIG a -40°C",
+      "c": "Por debajo de 200 PSIG a -18°C",
+      "d": "Por debajo de 150 PSIG a -50°C",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué problema causa la formación de hielo seco en las líneas de transferencia?",
+      "a": "Corrosión acelerada del metal",
+      "b": "Aumento del caudal de transferencia",
+      "c": "Bloqueo de líneas, fragilización del material y sobrepresión localizada al sublimar",
+      "d": "Mejora de la eficiencia de transferencia",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué precaución principal se debe tomar para evitar la formación de hielo seco?",
+      "a": "Calentar las líneas con vapor",
+      "b": "Reducir la velocidad de transferencia a cero",
+      "c": "Agregar anticongelante a las líneas",
+      "d": "Mantener la presión por encima de 60 PSIG",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Por qué se deben ecualizar presiones antes de abrir válvulas de carga?",
+      "a": "Para evitar golpe de ariete y daños en las conexiones",
+      "b": "Para acelerar la transferencia",
+      "c": "Para calentar el producto",
+      "d": "Para purificar el CO₂",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué es el golpe de ariete (water hammer) en el contexto de la carga de CO₂?",
+      "a": "Un método de limpieza de líneas",
+      "b": "Una onda de presión violenta causada por apertura abrupta de válvulas",
+      "c": "El sonido normal de la transferencia",
+      "d": "Un procedimiento de prueba hidrostática",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué causa contaminación en las líneas durante la carga/descarga?",
+      "a": "Uso de mangueras nuevas",
+      "b": "Transferencia a baja velocidad",
+      "c": "Líneas no purgadas previamente",
+      "d": "Presión excesivamente alta",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la primera de las 5 claves diagnósticas?",
+      "a": "Evaluar el riesgo primero",
+      "b": "Observar antes de actuar",
+      "c": "Documentar todo",
+      "d": "No forzar componentes dañados",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la quinta clave diagnóstica?",
+      "a": "Observar antes de actuar",
+      "b": "Usar todos los sentidos",
+      "c": "Documentar todo",
+      "d": "No forzar componentes dañados",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Un operador detecta corrosión visible en una conexión. ¿Qué debe hacer según las claves diagnósticas?",
+      "a": "Limpiar la corrosión y continuar operando",
+      "b": "Reemplazar la pieza él mismo inmediatamente",
+      "c": "Aplicar grasa y continuar la operación",
+      "d": "Observar, evaluar el riesgo, no forzar el componente y documentar",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué ocurre cuando el hielo seco formado en una línea bloqueada comienza a sublimar?",
+      "a": "Se genera sobrepresión localizada que puede causar rotura",
+      "b": "La línea se enfría más",
+      "c": "El CO₂ se purifica",
+      "d": "La presión disminuye gradualmente",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes NO es una causa de sobrepresión en la cisterna?",
+      "a": "Selector en posición incorrecta",
+      "b": "Purga correcta de las líneas",
+      "c": "Falta de suministro eléctrico 3x380V 50Hz",
+      "d": "Presostato descalibrado",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Un operador nota condensación excesiva en una zona de la cisterna. ¿Qué puede indicar?",
+      "a": "Funcionamiento normal",
+      "b": "Alta humedad ambiente exclusivamente",
+      "c": "Posible daño en el aislamiento o fuga de CO₂ en esa zona",
+      "d": "Que el condensador está funcionando a máxima capacidad",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre un silbido continuo y un burbujeo en diagnóstico de fugas?",
+      "a": "No hay diferencia, ambos indican lo mismo",
+      "b": "El silbido es normal y el burbujeo es peligroso",
+      "c": "El burbujeo indica gas y el silbido indica líquido",
+      "d": "El silbido indica fuga de gas y el burbujeo indica fuga en zona de líquido",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Por qué es importante el monitoreo constante durante la transferencia?",
+      "a": "Solo para registrar datos de facturación",
+      "b": "Para detectar caídas de presión por debajo de 60 PSIG y otros problemas",
+      "c": "Únicamente para medir el tiempo de transferencia",
+      "d": "Para ajustar la temperatura del producto",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué indica la detección de humedad en conexiones que normalmente están secas?",
+      "a": "Lluvia reciente en la zona",
+      "b": "Limpieza reciente del equipo",
+      "c": "Posible fuga o condensación anormal que requiere investigación",
+      "d": "Funcionamiento correcto del sistema de drenaje",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la acción correcta si se detecta deformación visible en la cisterna?",
+      "a": "Continuar operando con precaución",
+      "b": "Golpear la deformación para corregirla",
+      "c": "Aumentar la presión para verificar la resistencia",
+      "d": "Detener operaciones, evaluar riesgo y reportar sin forzar componentes",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué se debe hacer si la presión diferencial entre cisterna y tanque receptor es excesiva?",
+      "a": "Ecualizar presiones gradualmente antes de abrir las válvulas de carga",
+      "b": "Abrir la válvula principal completamente de golpe",
+      "c": "Iniciar la transferencia igualmente, se estabilizará sola",
+      "d": "Ventilar todo el CO₂ y comenzar de nuevo",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué fragilización del material causa la formación de hielo seco?",
+      "a": "Fragilización por hidrógeno",
+      "b": "Fragilización por temperatura extremadamente baja (-78.3°C)",
+      "c": "Fragilización por corrosión ácida",
+      "d": "Fragilización por radiación UV",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Si un operador detecta que la aguja del manómetro se mueve erráticamente, ¿qué puede indicar?",
+      "a": "Presión estable dentro del rango normal",
+      "b": "Transferencia exitosa completada",
+      "c": "Posible falla del manómetro o condición inestable en el tanque",
+      "d": "Nivel de llenado correcto",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué se debe tener procedimientos de emergencia listos durante la transferencia?",
+      "a": "Es un requisito burocrático sin uso práctico",
+      "b": "Solo para auditorías de calidad",
+      "c": "Para entrenar a nuevos operadores",
+      "d": "Porque la formación de hielo seco y otros incidentes pueden ocurrir sin aviso",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es el riesgo de una conexión de manguera deficiente durante la carga?",
+      "a": "Posible desconexión bajo presión con liberación violenta de CO₂",
+      "b": "Solo se reduce la velocidad de transferencia",
+      "c": "Aumento del consumo eléctrico",
+      "d": "Únicamente desperdicio de producto",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Un conductor llega a un cliente y nota que la cisterna estacionaria tiene el manómetro fuera de la zona verde (arriba). ¿Cuál es la prioridad?",
+      "a": "Calidad del servicio: entregar el producto rápidamente",
+      "b": "Seguridad de las personas: evaluar el riesgo antes de cualquier acción",
+      "c": "Continuidad operativa: conectar y transferir lo antes posible",
+      "d": "Integridad del equipo: revisar el condensador inmediatamente",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué ocurre si el selector del presostato está en posición incorrecta?",
+      "a": "No tiene efecto en la operación",
+      "b": "Solo afecta el indicador de nivel",
+      "c": "Puede causar sobrepresión al no activar correctamente las válvulas solenoides",
+      "d": "Reduce el consumo eléctrico",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué tipo de detección requiere el uso obligatorio de EPP?",
+      "a": "Visual y auditiva",
+      "b": "Solo olfativa",
+      "c": "Electrónica con sensores portátiles",
+      "d": "Táctil, ya que se verifica vibración y temperatura con las manos protegidas",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es la clave diagnóstica número 4?",
+      "a": "Observar antes de actuar",
+      "b": "No forzar componentes dañados",
+      "c": "Evaluar el riesgo primero",
+      "d": "Documentar todo",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué indica el sonido de activación de la válvula de seguridad?",
+      "a": "Que la presión ha alcanzado el punto de calibración y hay venteo de emergencia",
+      "b": "Funcionamiento normal de consumo",
+      "c": "Finalización de la carga",
+      "d": "Inicio automático del condensador",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Un operador detecta vibración anormal en una tubería durante la transferencia. ¿Qué debe sospechar?",
+      "a": "Velocidad normal de transferencia",
+      "b": "Finalización inminente de la carga",
+      "c": "Posible componente suelto, golpe de ariete o formación de hielo seco",
+      "d": "Calibración correcta del presostato",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué impacto tiene la exposición directa al sol en una cisterna de CO₂?",
+      "a": "Ninguno, las cisternas están diseñadas para ello",
+      "b": "Solo afecta la pintura exterior",
+      "c": "Reduce la vida útil del condensador pero no afecta la presión",
+      "d": "Aumento de la temperatura interna y consecuente aumento de presión",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es el riesgo de usar la clave diagnóstica 'usar todos los sentidos' sin EPP?",
+      "a": "Exposición directa a quemaduras criogénicas y atmósferas peligrosas",
+      "b": "No hay riesgo adicional",
+      "c": "Solo riesgo de ensuciarse",
+      "d": "Únicamente riesgo de ruido excesivo",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué se debe verificar en las conexiones durante la detección visual en campo?",
+      "a": "Solo el color de las conexiones",
+      "b": "Corrosión, deformación, escarcha, condensación excesiva y estado general",
+      "c": "Únicamente que estén apretadas",
+      "d": "Solo la marca del fabricante",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué riesgo representa una manguera con conexión deficiente durante la descarga?",
+      "a": "Reducción menor del caudal sin riesgo",
+      "b": "Solo pérdida económica de producto",
+      "c": "Desconexión bajo presión que puede causar liberación violenta y quemaduras criogénicas",
+      "d": "Daño estético a la manguera",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuándo se debe ecualizar presiones durante el proceso de carga?",
+      "a": "Antes de abrir la válvula principal de carga",
+      "b": "Después de abrir completamente la válvula principal de carga",
+      "c": "Solo cuando la diferencia de presión es mayor a 100 PSIG",
+      "d": "No es necesario ecualizar presiones nunca",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Si durante la transferencia la presión cae a 50 PSIG, ¿qué riesgo inmediato existe?",
+      "a": "El producto se evapora completamente",
+      "b": "Aumento de la temperatura del producto",
+      "c": "Formación de hielo seco que puede bloquear líneas y causar fragilización",
+      "d": "Ninguno, es presión segura de operación",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la segunda prioridad en la evaluación de riesgos ante una falla?",
+      "a": "Seguridad de las personas",
+      "b": "Continuidad operativa",
+      "c": "Calidad del servicio",
+      "d": "Integridad del equipo",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Un conductor detecta que el condensador de una cisterna estacionaria no enciende. ¿Cuál es la posible consecuencia?",
+      "a": "El CO₂ se solidifica dentro del tanque",
+      "b": "La presión subirá progresivamente hasta causar sobrepresión",
+      "c": "El nivel de líquido bajará rápidamente",
+      "d": "No hay consecuencia si la temperatura ambiente es baja",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué clave diagnóstica aplica cuando un operador encuentra una válvula que no gira fácilmente?",
+      "a": "Forzar con una herramienta más larga para mayor palanca",
+      "b": "Golpear la válvula para desbloquearla",
+      "c": "No forzar componentes dañados; reportar y buscar asistencia",
+      "d": "Aplicar calor directo con soplete",
+      "correcta": "c"
+    }
+  ],
+  "clase_03": [
+    {
+      "pregunta": "¿Cuál es la función de la válvula V1 en el circuito de consumo de líquido?",
+      "a": "Válvula de seguridad del tanque",
+      "b": "Ecualización de presiones",
+      "c": "Corte primario para iniciar el suministro de líquido",
+      "d": "Válvula de venteo de emergencia",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué tipo de válvula es la V2?",
+      "a": "Válvula esférica de aislamiento con doble corte de seguridad",
+      "b": "Válvula solenoide",
+      "c": "Válvula de retención (check)",
+      "d": "Válvula de seguridad calibrada",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿A qué presión se abre automáticamente la válvula solenoide V3?",
+      "a": "270 PSI",
+      "b": "240 PSI",
+      "c": "350 PSI",
+      "d": "200 PSI",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la función de la válvula V4?",
+      "a": "Corte primario de gas",
+      "b": "Ecualización de presiones de carga",
+      "c": "Válvula de retención (check) que permite el flujo en un solo sentido",
+      "d": "Válvula solenoide de gas",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué función cumple la V5 (evaporador)?",
+      "a": "Enfría el gas para licuarlo",
+      "b": "Mide la presión del sistema",
+      "c": "Filtra impurezas del CO₂",
+      "d": "Convierte el CO₂ líquido en gas utilizando calor del ambiente",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es la válvula de corte primario para el circuito de gas?",
+      "a": "V6",
+      "b": "V1",
+      "c": "V3",
+      "d": "V10",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué tipo de válvula es la V7?",
+      "a": "Solenoide automática",
+      "b": "Esférica de aislamiento para gas",
+      "c": "De seguridad calibrada",
+      "d": "De retención unidireccional",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿A qué presión se abre la válvula solenoide V8?",
+      "a": "240 PSI",
+      "b": "350 PSI",
+      "c": "270 PSI",
+      "d": "300 PSI",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué el circuito de gas es más simple que el de líquido?",
+      "a": "Porque usa mayor cantidad de válvulas",
+      "b": "Porque opera a mayor presión",
+      "c": "Porque no tiene válvulas solenoides",
+      "d": "Porque no necesita evaporador, ya que el gas se toma de la parte superior del tanque",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es la función de la válvula V10?",
+      "a": "Válvula primaria de carga",
+      "b": "Válvula de seguridad principal",
+      "c": "Corte primario para el circuito de gas",
+      "d": "Ecualización de presiones",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Para qué sirve la válvula V11?",
+      "a": "Para venteo de emergencia",
+      "b": "Para ecualización de presiones durante la carga, evitando golpe de ariete",
+      "c": "Para control automático de nivel",
+      "d": "Para drenaje de condensado",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué válvula se debe abrir ANTES de V10 durante la carga?",
+      "a": "V1",
+      "b": "V6",
+      "c": "V11 (ecualización de presiones)",
+      "d": "V15",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuáles son las válvulas esféricas secundarias del sistema de seguridad?",
+      "a": "V1 y V6",
+      "b": "V2 y V7",
+      "c": "V3 y V8",
+      "d": "V12 y V13",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué tipo de válvula es la V14?",
+      "a": "Válvula de tres vías que dirige al sistema de seguridad",
+      "b": "Esférica de aislamiento",
+      "c": "Solenoide automática",
+      "d": "De retención unidireccional",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿A qué presión está calibrada la válvula de seguridad V15?",
+      "a": "220 PSIG",
+      "b": "350 PSIG (24.6 kg/cm²)",
+      "c": "300 PSIG",
+      "d": "400 PSIG",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué tipo de mecanismo tiene la válvula de seguridad V15?",
+      "a": "Solenoide eléctrica",
+      "b": "Accionamiento manual",
+      "c": "Tipo resorte",
+      "d": "Diafragma neumático",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el primer paso de la secuencia de apertura para consumo?",
+      "a": "Abrir válvulas esféricas V2 o V7",
+      "b": "Poner el selector en Automático",
+      "c": "Monitorear el flujo de producto",
+      "d": "Verificar que la presión esté en el rango verde 220-320 PSIG",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es el orden correcto de apertura para consumo de líquido?",
+      "a": "Verificar presión, V1, V2, selector Automático, monitorear",
+      "b": "V2, V1, selector Automático, monitorear",
+      "c": "Selector Automático, V1, V2, verificar presión",
+      "d": "V1, verificar presión, V2, monitorear",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿En qué paso de la secuencia de apertura se coloca el selector en Automático?",
+      "a": "Primer paso",
+      "b": "Cuarto paso (después de abrir primarias y esféricas)",
+      "c": "Segundo paso",
+      "d": "Último paso después de monitorear",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es el primer paso de la secuencia de cierre?",
+      "a": "Cerrar válvulas primarias V1/V6",
+      "b": "Cerrar válvulas esféricas V2/V7",
+      "c": "Colocar selector en 0",
+      "d": "Verificar ausencia de flujo residual",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es el orden correcto de cierre?",
+      "a": "V2/V7, V1/V6, selector a 0, verificar",
+      "b": "Selector a 0, V1/V6, V2/V7, verificar",
+      "c": "V1/V6, V2/V7, selector a 0, verificar ausencia de flujo residual",
+      "d": "Verificar, selector a 0, V2/V7, V1/V6",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué posición debe tener el selector después del cierre completo?",
+      "a": "Automático",
+      "b": "Manual",
+      "c": "Emergencia",
+      "d": "0 (cero)",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cómo funciona el sistema de bypass automático cuando la presión alcanza 270 PSI?",
+      "a": "V3 se abre y V8 se cierra",
+      "b": "V8 se abre (gas) y V3 se cierra",
+      "c": "Ambas V3 y V8 se abren simultáneamente",
+      "d": "Ambas V3 y V8 se cierran",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué ocurre cuando la presión baja a 240 PSI en el sistema de bypass?",
+      "a": "V8 se abre y V3 se cierra",
+      "b": "Ambas se cierran",
+      "c": "V8 se cierra y V3 se abre (líquido a través del evaporador V5)",
+      "d": "Se activa la válvula de seguridad V15",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la lógica del ciclo automático de presión en el bypass?",
+      "a": "A alta presión consume gas (V8), a baja presión consume líquido vía evaporador (V3/V5), el ciclo se repite",
+      "b": "A alta presión consume líquido, a baja presión consume gas",
+      "c": "Ambas válvulas operan simultáneamente siempre",
+      "d": "El ciclo solo funciona en modo manual",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Por qué cuando la presión sube a 270 PSI se consume gas en lugar de líquido?",
+      "a": "Porque el gas es más económico",
+      "b": "Para reducir la presión del tanque consumiendo el gas acumulado en la parte superior",
+      "c": "Porque el líquido se solidifica a esa presión",
+      "d": "Por limitaciones del evaporador",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué error común se comete con la válvula V11 durante la carga?",
+      "a": "Abrirla demasiado lento",
+      "b": "Cerrarla durante toda la carga",
+      "c": "No abrirla antes de V10, omitiendo la ecualización de presiones",
+      "d": "Confundirla con la válvula de seguridad",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué consecuencia tiene forzar una válvula que no gira?",
+      "a": "Solo se desgasta la manija",
+      "b": "No tiene consecuencias si se usa herramienta adecuada",
+      "c": "Mejora el sellado por compresión",
+      "d": "Puede dañar el mecanismo interno, generar fugas o romper el asiento de la válvula",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿En qué posición debe estar el selector normalmente durante la operación?",
+      "a": "Automático",
+      "b": "Manual",
+      "c": "0 (cero)",
+      "d": "Bypass",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿De dónde toma el CO₂ el circuito de gas del tanque?",
+      "a": "De la parte inferior del tanque (fase líquida)",
+      "b": "De la parte superior del tanque (fase gaseosa)",
+      "c": "Del evaporador externo",
+      "d": "De un tanque auxiliar de gas",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Por qué el circuito de líquido necesita un evaporador (V5) y el de gas no?",
+      "a": "Porque el gas es más peligroso",
+      "b": "Porque el evaporador solo funciona con alta presión",
+      "c": "Porque el cliente necesita CO₂ en estado gaseoso y el líquido debe convertirse antes de entregarse",
+      "d": "Porque el circuito de gas tiene su propio evaporador interno",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la clave de operación número 1 del cuadro de válvulas?",
+      "a": "Seguir siempre la secuencia correcta",
+      "b": "Conocer cada válvula por su número y función",
+      "c": "Ecualizar presiones antes de cargar",
+      "d": "Nunca forzar una válvula",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la clave de operación número 3?",
+      "a": "Conocer cada válvula por número",
+      "b": "Seguir la secuencia correcta siempre",
+      "c": "Ecualizar presiones antes de cargar (V11 antes de V10)",
+      "d": "Mantener el selector en Automático",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Un operador necesita iniciar el suministro de gas. ¿Qué válvulas primarias debe abrir?",
+      "a": "V1 y V2",
+      "b": "V10 y V11",
+      "c": "V6 y V7",
+      "d": "V3 y V8",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Un operador nota que la presión está en 250 PSI. ¿Qué válvula solenoide está abierta en ese momento?",
+      "a": "V8 (gas) porque la presión supera 240 PSI",
+      "b": "Ambas V3 y V8 están abiertas",
+      "c": "Ninguna, ambas están cerradas",
+      "d": "V3 (líquido) porque la presión está entre 240 y 270 PSI",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Si la presión alcanza 280 PSI, ¿cuál es el estado de las solenoides?",
+      "a": "V3 abierta, V8 cerrada",
+      "b": "V3 cerrada, V8 abierta (consumiendo gas para bajar presión)",
+      "c": "Ambas abiertas",
+      "d": "Ambas cerradas",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué sucede si un operador abre V10 sin abrir primero V11?",
+      "a": "La carga es más rápida y eficiente",
+      "b": "La válvula de seguridad se activa automáticamente",
+      "c": "Puede producirse un golpe de ariete por diferencial de presión",
+      "d": "No hay ninguna consecuencia",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué se debe verificar como último paso después de cerrar todas las válvulas?",
+      "a": "Que el manómetro esté en cero",
+      "b": "Que la temperatura exterior sea adecuada",
+      "c": "Que el condensador esté encendido",
+      "d": "Que no haya flujo residual en las líneas",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es la equivalencia en kg/cm² de la presión de calibración de V15 (350 PSIG)?",
+      "a": "24.6 kg/cm²",
+      "b": "20.0 kg/cm²",
+      "c": "30.0 kg/cm²",
+      "d": "18.5 kg/cm²",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué componente controla automáticamente la apertura y cierre de V3 y V8?",
+      "a": "El condensador",
+      "b": "El presostato",
+      "c": "La válvula de seguridad V15",
+      "d": "El operador manualmente",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Si el selector está en posición 0 durante una operación de consumo, ¿qué ocurre?",
+      "a": "El sistema opera normalmente",
+      "b": "La presión aumenta automáticamente",
+      "c": "Las válvulas solenoides no reciben señal y el consumo se detiene",
+      "d": "Se activa el modo de emergencia",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué ocurre si se intenta cargar la cisterna sin ecualizar presiones y la presión diferencial es alta?",
+      "a": "La carga se realiza más rápidamente",
+      "b": "Se puede producir golpe de ariete, dañando conexiones y válvulas",
+      "c": "El producto se solidifica inmediatamente",
+      "d": "La válvula V15 se abre automáticamente",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Para qué sirven las válvulas esféricas secundarias V12 y V13?",
+      "a": "Para control de nivel del tanque",
+      "b": "Para ecualización de presiones de carga",
+      "c": "Para proporcionar aislamiento adicional en el sistema de seguridad",
+      "d": "Para consumo de gas del cliente",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Un operador debe cerrar el suministro de líquido. ¿Qué válvula cierra primero?",
+      "a": "V1 (primaria de corte)",
+      "b": "V2 (esférica de aislamiento)",
+      "c": "V3 (solenoide)",
+      "d": "V5 (evaporador)",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué clave de operación establece que nunca se debe forzar una válvula?",
+      "a": "Clave 1",
+      "b": "Clave 2",
+      "c": "Clave 3",
+      "d": "Clave 4",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es la clave de operación número 5?",
+      "a": "Ecualizar presiones antes de cargar",
+      "b": "Mantener el selector en Automático",
+      "c": "Conocer cada válvula por número",
+      "d": "Nunca forzar una válvula",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Si durante la operación el presostato falla y no conmuta entre V3 y V8, ¿qué puede ocurrir?",
+      "a": "El sistema sigue funcionando normalmente",
+      "b": "Las válvulas manuales se cierran automáticamente",
+      "c": "La presión puede salir del rango operativo causando sobrepresión o subpresión",
+      "d": "El evaporador compensa la falla",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué válvula permite el paso del CO₂ líquido a través del evaporador para convertirlo en gas?",
+      "a": "V3 (solenoide de líquido) que dirige el flujo hacia V5 (evaporador)",
+      "b": "V1",
+      "c": "V8",
+      "d": "V10",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuántas válvulas principales componen el circuito completo de consumo de líquido (incluyendo evaporador)?",
+      "a": "3 (V1, V2, V3)",
+      "b": "2 (V1, V2)",
+      "c": "5 (V1, V2, V3, V4, V5)",
+      "d": "7 válvulas",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué es importante mantener el selector en modo Automático durante la operación normal?",
+      "a": "Para ahorrar energía eléctrica",
+      "b": "Para que el presostato controle automáticamente el ciclo de presión entre V3 y V8",
+      "c": "Para que la válvula de seguridad funcione",
+      "d": "Solo por convención, no tiene efecto real",
+      "correcta": "b"
+    }
+  ],
+  "clase_04": [
+    {
+      "pregunta": "¿De qué material está fabricado el recipiente a presión del tanque de almacenamiento de CO₂?",
+      "a": "Acero de alta resistencia según ASME Sección VIII División 1",
+      "b": "Aluminio de alta pureza",
+      "c": "Fibra de vidrio reforzada",
+      "d": "Cobre electrolítico",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué norma rige la fabricación del recipiente a presión del tanque?",
+      "a": "ISO 9001",
+      "b": "NFPA 70",
+      "c": "ASME Sección VIII División 1",
+      "d": "API 650",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué material se usa como aislamiento térmico del tanque?",
+      "a": "Lana de vidrio",
+      "b": "Corcho expandido",
+      "c": "Espuma rígida de poliuretano",
+      "d": "Aerogel de sílice",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el espesor del aislamiento de poliuretano del tanque?",
+      "a": "2 pulgadas (50mm)",
+      "b": "4 pulgadas (100mm)",
+      "c": "8 pulgadas (200mm)",
+      "d": "6 pulgadas (150mm)",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué consecuencia tiene un aislamiento dañado en el tanque?",
+      "a": "Mayor ingreso de calor, aumento más rápido de presión y venteo excesivo de la válvula de seguridad",
+      "b": "Solo afecta la apariencia exterior",
+      "c": "Reduce el peso del tanque",
+      "d": "Mejora la transferencia de calor al condensador",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿De qué materiales puede ser la cubierta exterior del tanque?",
+      "a": "Acero inoxidable o cobre",
+      "b": "PRFV (fibra de vidrio) o aluminio",
+      "c": "Madera tratada o plástico",
+      "d": "Concreto armado",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es el rango de presión operativa normal del tanque de almacenamiento?",
+      "a": "100-200 PSIG",
+      "b": "150-250 PSIG",
+      "c": "350-400 PSIG",
+      "d": "220-320 PSIG",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura normal de operación del CO₂ almacenado?",
+      "a": "0°C",
+      "b": "-40°C",
+      "c": "-18°C",
+      "d": "-78.5°C",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué relación existe entre la temperatura ambiente y la presión interna del tanque?",
+      "a": "Directa: mayor temperatura ambiente causa mayor presión interna",
+      "b": "Son inversamente proporcionales",
+      "c": "No tienen relación",
+      "d": "Solo se relacionan cuando el tanque está lleno al 100%",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué equipo es esencial para mantener la presión dentro del rango operativo?",
+      "a": "El evaporador externo",
+      "b": "La unidad condensadora",
+      "c": "El calentador eléctrico",
+      "d": "La bomba de vacío",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué garantiza la norma ASME en relación con el tanque?",
+      "a": "Solo la calidad de la pintura exterior",
+      "b": "Únicamente el espesor del aislamiento",
+      "c": "Diseño seguro para presión máxima de trabajo, soldaduras calificadas, pruebas hidrostáticas y documentación",
+      "d": "Solo la capacidad volumétrica",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué ocurre si se realizan modificaciones no autorizadas al tanque?",
+      "a": "Mejora la eficiencia del sistema",
+      "b": "Solo se pierde la garantía del fabricante",
+      "c": "No tiene consecuencias si un ingeniero las supervisa",
+      "d": "Se invalida la certificación ASME del recipiente",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Con qué frecuencia deben realizarse las inspecciones del tanque según la norma?",
+      "a": "Las inspecciones periódicas son obligatorias según los intervalos establecidos",
+      "b": "Solo cuando hay una falla",
+      "c": "Una vez cada 10 años",
+      "d": "Solo al instalar el tanque",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué información contiene la placa de identificación del tanque?",
+      "a": "Solo el nombre del fabricante",
+      "b": "Datos críticos: presión máxima de trabajo, fecha de fabricación, número de serie y otros datos normativos",
+      "c": "Únicamente la capacidad en litros",
+      "d": "Solo instrucciones de uso",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué debe verificar el conductor respecto a la placa de identificación?",
+      "a": "Que esté pintada del color correcto",
+      "b": "Solo que exista físicamente",
+      "c": "Que sea legible y verificar sus datos",
+      "d": "Que tenga menos de 5 años",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el primer punto de la inspección visual rutinaria de 8 puntos?",
+      "a": "Condición de la cubierta (sin abolladuras, grietas ni corrosión)",
+      "b": "Estado del manómetro",
+      "c": "Estado de las válvulas",
+      "d": "Área circundante",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué se debe verificar en el punto 2 de la inspección (aislamiento)?",
+      "a": "Que el color sea uniforme",
+      "b": "Que no haya zonas húmedas, manchadas o desprendidas",
+      "c": "Solo el espesor con un instrumento",
+      "d": "Que esté caliente al tacto",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué indica una zona húmeda o manchada en el aislamiento exterior?",
+      "a": "Limpieza reciente del tanque",
+      "b": "Condensación normal por operación",
+      "c": "Posible daño en el aislamiento o ingreso de humedad que reduce su eficiencia",
+      "d": "Que el condensador funciona correctamente",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "En la inspección del manómetro (punto 3), ¿qué se debe verificar?",
+      "a": "Solo que el vidrio no esté roto",
+      "b": "Solo que marque más de cero",
+      "c": "Que la marca del fabricante sea visible",
+      "d": "Que esté en rango verde (220-320 PSIG) y la aguja esté estable",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué se inspecciona en las válvulas (punto 4)?",
+      "a": "Que no presenten escarcha, goteo, y que estén en posiciones correctas",
+      "b": "Solo que estén abiertas",
+      "c": "Solo el color de las manijas",
+      "d": "Únicamente que giren con facilidad",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué se verifica en las conexiones (punto 5)?",
+      "a": "Solo que estén conectadas",
+      "b": "Ausencia de corrosión, fugas y apriete correcto",
+      "c": "Solo la longitud de los tubos",
+      "d": "El color de las juntas",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué se inspecciona en la base y soportes del tanque (punto 6)?",
+      "a": "Solo el color de la pintura",
+      "b": "Únicamente la altura sobre el suelo",
+      "c": "Que no haya desplazamiento ni grietas",
+      "d": "Solo que estén visibles",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué condiciones debe tener el área circundante del tanque (punto 7)?",
+      "a": "Solo que esté pavimentada",
+      "b": "Con techo para proteger del sol",
+      "c": "Cercada con candado",
+      "d": "Limpia, ventilada y sin obstrucciones",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué se verifica en el indicador de nivel (punto 8)?",
+      "a": "Que sea coherente con el historial de consumo",
+      "b": "Solo que funcione eléctricamente",
+      "c": "Solo que marque más del 50%",
+      "d": "Que el display esté encendido",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es la presión máxima de trabajo del tanque?",
+      "a": "285 PSIG",
+      "b": "350 PSIG",
+      "c": "320 PSIG",
+      "d": "400 PSIG",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la presión de trabajo normal del tanque?",
+      "a": "220 PSIG",
+      "b": "350 PSIG",
+      "c": "285 PSIG",
+      "d": "400 PSIG",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el principio número 1 del tanque de almacenamiento?",
+      "a": "Leer la placa de identificación",
+      "b": "Inspeccionar en cada visita",
+      "c": "Reportar anomalías",
+      "d": "Conocer los límites: trabajo 285 PSIG, máximo 350 PSIG, temperatura -18°C",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es el principio número 2?",
+      "a": "Leer la placa de identificación",
+      "b": "Conocer los límites del tanque",
+      "c": "Respetar el aislamiento",
+      "d": "Inspeccionar cada visita",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es el principio número 3?",
+      "a": "Conocer los límites",
+      "b": "Inspeccionar en cada visita",
+      "c": "Leer la placa de identificación",
+      "d": "Respetar el aislamiento",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es el principio número 4?",
+      "a": "Reportar anomalías",
+      "b": "Inspeccionar cada visita",
+      "c": "Respetar el aislamiento (no dañar ni perforar)",
+      "d": "Leer la placa",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el principio número 5?",
+      "a": "Conocer los límites",
+      "b": "Leer la placa",
+      "c": "Respetar el aislamiento",
+      "d": "Reportar todas las anomalías",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Un conductor nota una abolladura en la cubierta exterior del tanque. ¿Qué debe hacer?",
+      "a": "Documentarla y reportarla como anomalía",
+      "b": "Ignorarla si es pequeña",
+      "c": "Repararla él mismo con masilla",
+      "d": "Seguir operando normalmente",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Por qué el aislamiento dañado causa venteo excesivo de la válvula de seguridad?",
+      "a": "Porque el aislamiento controla la válvula de seguridad",
+      "b": "Porque al perder aislamiento entra más calor, sube la presión más rápido y la válvula se activa con más frecuencia",
+      "c": "Porque el aislamiento sella la válvula de seguridad",
+      "d": "No hay relación entre aislamiento y venteo",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué tipo de prueba se realiza al recipiente a presión según ASME?",
+      "a": "Prueba de vacío",
+      "b": "Prueba de ultrasonido únicamente",
+      "c": "Prueba hidrostática",
+      "d": "Prueba de impacto Charpy únicamente",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué tipo de soldaduras exige la norma ASME para el recipiente a presión?",
+      "a": "Soldaduras comunes sin requisito especial",
+      "b": "Solo soldaduras por puntos",
+      "c": "Soldaduras frías",
+      "d": "Soldaduras calificadas según procedimientos aprobados",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Si el manómetro del tanque marca 340 PSIG, ¿qué situación indica?",
+      "a": "Presión normal de operación",
+      "b": "Presión cercana al máximo (350 PSIG), situación crítica que requiere acción inmediata",
+      "c": "Presión óptima de trabajo",
+      "d": "El manómetro está descalibrado",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué indica un nivel de líquido que no es coherente con el historial de consumo del cliente?",
+      "a": "El cliente consume más de lo esperado, no es preocupante",
+      "b": "El indicador funciona correctamente",
+      "c": "Posible fuga, error de medición o consumo irregular que debe investigarse",
+      "d": "Que el tanque es más grande de lo registrado",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué es importante que el área alrededor del tanque esté ventilada?",
+      "a": "Para mantener la pintura en buen estado",
+      "b": "Solo por estética del lugar",
+      "c": "Para que el condensador sea accesible",
+      "d": "Porque el CO₂ es más pesado que el aire y puede acumularse en zonas sin ventilación",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué componente del tanque reduce la ganancia de calor del ambiente?",
+      "a": "El aislamiento térmico de poliuretano rígido",
+      "b": "La cubierta exterior",
+      "c": "La válvula de seguridad",
+      "d": "El condensador",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Un conductor observa que la aguja del manómetro oscila continuamente. ¿Qué puede indicar?",
+      "a": "Funcionamiento normal",
+      "b": "Posible falla del manómetro o condición inestable que requiere evaluación",
+      "c": "Que el tanque está casi vacío",
+      "d": "Que la temperatura es ideal",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué debe hacer un conductor si encuentra la placa de identificación ilegible?",
+      "a": "Continuar operando normalmente",
+      "b": "Limpiarla con solvente",
+      "c": "Reportarlo como anomalía ya que los datos de la placa son críticos para la seguridad",
+      "d": "Tomar una foto y olvidarse",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué función cumple el condensador en el tanque de almacenamiento?",
+      "a": "Calentar el CO₂ para mantener la presión alta",
+      "b": "Medir el nivel de líquido en el tanque",
+      "c": "Filtrar impurezas del CO₂",
+      "d": "Enfriar el CO₂ para mantener la presión dentro del rango operativo 220-320 PSIG",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuáles son las tres capas principales de la estructura del tanque?",
+      "a": "Recipiente a presión (acero), aislamiento (poliuretano) y cubierta exterior (PRFV o aluminio)",
+      "b": "Acero, concreto y pintura",
+      "c": "Aluminio, fibra de vidrio y plástico",
+      "d": "Acero inoxidable, vacío y aluminio",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué información debe conocer el conductor sobre la norma ASME respecto al tanque?",
+      "a": "Solo el número de la norma",
+      "b": "Los límites que no debe exceder, que las modificaciones invalidan la certificación, inspecciones periódicas obligatorias y datos de la placa",
+      "c": "Solo que el tanque está certificado",
+      "d": "Únicamente la fecha de la próxima inspección",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Si un conductor encuentra obstrucciones alrededor del tanque que bloquean la ventilación, ¿qué debe hacer?",
+      "a": "Ignorarlo si no afecta la conexión de la manguera",
+      "b": "Mover los objetos él mismo sin importar qué sean",
+      "c": "Reportar la anomalía y solicitar que se libere el área",
+      "d": "Operar rápidamente para minimizar el riesgo",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué indica la presencia de grietas en la base o soportes del tanque?",
+      "a": "Desgaste estético normal",
+      "b": "Falla estructural potencial que compromete la estabilidad del tanque y debe reportarse",
+      "c": "Solo necesita pintura nueva",
+      "d": "Es normal en tanques de más de un año",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuántos puntos tiene la lista de inspección visual rutinaria?",
+      "a": "5 puntos",
+      "b": "6 puntos",
+      "c": "10 puntos",
+      "d": "8 puntos",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Por qué las conexiones del tanque no deben presentar corrosión?",
+      "a": "Porque la corrosión debilita la integridad de la conexión y puede provocar fugas bajo presión",
+      "b": "Solo por razones estéticas",
+      "c": "Porque dificulta la lectura de las etiquetas",
+      "d": "Solo porque el cliente lo exige",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre la presión de trabajo (285 PSIG) y la presión máxima (350 PSIG)?",
+      "a": "Son lo mismo",
+      "b": "350 PSIG es la presión operativa y 285 PSIG es la mínima",
+      "c": "285 PSIG es la presión operativa normal; 350 PSIG es el límite de diseño donde actúa la válvula de seguridad",
+      "d": "La diferencia es irrelevante para el conductor",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Si un conductor detecta que el aislamiento del tanque está desprendido en una sección, ¿qué riesgo principal existe?",
+      "a": "Solo un problema estético sin impacto operativo",
+      "b": "Mayor ingreso de calor en esa zona que acelera el aumento de presión interna",
+      "c": "Riesgo de cortocircuito eléctrico en el condensador",
+      "d": "Reducción del volumen útil del tanque",
+      "correcta": "b"
+    }
+  ],
+  "clase_05": [
+    {
+      "pregunta": "¿Cuál es la función principal del tablero eléctrico en un sistema de almacenamiento de CO2?",
+      "a": "Ser el centro de control y monitoreo del almacenamiento de CO2",
+      "b": "Controlar únicamente la temperatura del tanque",
+      "c": "Regular el flujo de CO2 hacia el cliente",
+      "d": "Medir el nivel de líquido en la cisterna",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué elementos gestiona el tablero eléctrico?",
+      "a": "Solo la bomba del camión cisterna",
+      "b": "Solo las alarmas de presión",
+      "c": "Únicamente el selector manual-automático",
+      "d": "La unidad condensadora, alarmas de presión y conexión con la bomba del camión cisterna",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿A qué presión se activa la alarma de alta presión?",
+      "a": "Mayor a 350 PSIG",
+      "b": "Mayor a 320 PSIG",
+      "c": "Mayor a 270 PSIG",
+      "d": "Mayor a 300 PSIG",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué señales produce la alarma de alta presión?",
+      "a": "Solo una luz roja intermitente",
+      "b": "Una sirena intermitente y luz amarilla",
+      "c": "Campana acústica continua y luz indicadora roja",
+      "d": "Solo una campana acústica breve",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes NO es una causa de alarma de alta presión?",
+      "a": "Condensadora apagada",
+      "b": "Selector en posición 0",
+      "c": "Calor ambiental excesivo",
+      "d": "Consumo excesivo del cliente",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿A qué presión se activa la alarma de baja presión?",
+      "a": "Menor a 220 PSIG",
+      "b": "Menor a 240 PSIG",
+      "c": "Menor a 200 PSIG",
+      "d": "Menor a 270 PSIG",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es una causa posible de alarma de baja presión?",
+      "a": "Condensadora funcionando en exceso",
+      "b": "Fuga en el sistema",
+      "c": "Selector en posición Automático",
+      "d": "Temperatura ambiental muy alta",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Cuando el consumo del cliente es mayor que el suministro, ¿qué alarma se activa?",
+      "a": "Alarma de alta presión",
+      "b": "Alarma de temperatura",
+      "c": "Alarma de nivel crítico",
+      "d": "Alarma de baja presión",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué ocurre cuando se presiona el botón de aceptación de alarma?",
+      "a": "Se apaga la luz indicadora y la campana",
+      "b": "Se soluciona el problema automáticamente",
+      "c": "Se silencia la campana acústica SOLAMENTE",
+      "d": "Se reinicia todo el sistema del tablero",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Después de presionar el botón de aceptación de alarma, ¿qué es lo PRIMERO que debe hacer el conductor?",
+      "a": "Leer el manómetro para conocer la presión actual",
+      "b": "Llamar inmediatamente al supervisor",
+      "c": "Cambiar el selector a Manual",
+      "d": "Apagar el tablero eléctrico",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué sucede con la luz indicadora cuando se presiona el botón de aceptación de alarma?",
+      "a": "Se apaga inmediatamente",
+      "b": "NO se apaga, permanece encendida",
+      "c": "Parpadea más lento",
+      "d": "Cambia de color rojo a amarillo",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Usted llega al cliente y escucha una campana continua. ¿Cuál es el paso correcto después de silenciarla?",
+      "a": "Continuar con la descarga normalmente",
+      "b": "Desconectar el tablero eléctrico",
+      "c": "Abrir el tablero para revisar los fusibles",
+      "d": "Identificar si la alarma es de alta (>320) o baja (<220) presión",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿En qué posición debe estar el selector del tablero durante operación normal?",
+      "a": "Manual",
+      "b": "Posición 0",
+      "c": "Automático",
+      "d": "Depende del tipo de cliente",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Al verificar la operación de la condensadora, ¿qué debe escuchar el conductor?",
+      "a": "El compresor funcionando",
+      "b": "Un silbido agudo constante",
+      "c": "El ventilador a máxima velocidad",
+      "d": "No debe escucharse nada",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es la causa MÁS COMÚN de fallas en el tablero eléctrico?",
+      "a": "Sobrecalentamiento del tablero",
+      "b": "Falta de energía eléctrica",
+      "c": "Cortocircuito interno",
+      "d": "Humedad en los componentes",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué tipo de alimentación eléctrica requiere el sistema del tablero?",
+      "a": "Monofásica 220V 60Hz",
+      "b": "Bifásica 2x220V 50Hz",
+      "c": "Monofásica 380V 50Hz",
+      "d": "Trifásica 3x380V 50Hz",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué debe verificar PRIMERO si el tablero no tiene energía?",
+      "a": "La presión del tanque",
+      "b": "El nivel de CO2 en el tanque",
+      "c": "Que el interruptor general esté encendido",
+      "d": "El estado del compresor de la condensadora",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes elementos debe verificarse si no hay energía en el tablero?",
+      "a": "Que no haya corte de energía en la zona, fusibles y cable de alimentación",
+      "b": "Solo los fusibles",
+      "c": "Solo el cable de alimentación",
+      "d": "Solo el interruptor general",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "En el diagnóstico básico de 5 pasos, ¿cuál es el paso 1?",
+      "a": "Verificar posición del selector",
+      "b": "Leer el manómetro",
+      "c": "Escuchar la condensadora",
+      "d": "Verificar si el tablero tiene energía (¿hay luces encendidas?)",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "En el diagnóstico básico, ¿cuál es el rango verde del manómetro?",
+      "a": "200-300 PSIG",
+      "b": "220-320 PSIG",
+      "c": "240-350 PSIG",
+      "d": "250-320 PSIG",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Si la presión del tanque es mayor a 300 PSIG, ¿qué debería estar ocurriendo?",
+      "a": "La válvula de seguridad debería estar abierta",
+      "b": "El selector debería estar en Manual",
+      "c": "La condensadora debería estar funcionando",
+      "d": "La alarma de baja presión debería sonar",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué el conductor NO debe abrir el tablero eléctrico?",
+      "a": "Porque contiene alta tensión en su interior y solo técnicos calificados deben hacerlo",
+      "b": "Porque se puede dañar la pintura",
+      "c": "Porque pierde la garantía del equipo",
+      "d": "Porque las piezas internas son delicadas",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué debe documentar el conductor ante cada alarma?",
+      "a": "Solo el tipo de alarma",
+      "b": "Solo la hora y la presión",
+      "c": "Solo las acciones tomadas",
+      "d": "Hora, tipo de alarma, presión, acciones tomadas y personas notificadas",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Un conductor llega al cliente y el tablero no tiene luces encendidas. ¿Qué debe hacer?",
+      "a": "Abrir el tablero y revisar los cables",
+      "b": "Verificar interruptor general, posible corte de zona, fusibles y cable de alimentación",
+      "c": "Iniciar la descarga de CO2 igualmente",
+      "d": "Llamar al electricista del cliente para que repare",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es un principio clave respecto al silenciamiento de alarmas?",
+      "a": "Silenciar la alarma es suficiente como acción correctiva",
+      "b": "Se debe silenciar y esperar 30 minutos",
+      "c": "Alarma = Acción, no solo silenciarla",
+      "d": "Solo el supervisor puede silenciar alarmas",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué falla eléctrica puede causar una alarma de alta presión?",
+      "a": "Falla eléctrica que impide el funcionamiento de la condensadora",
+      "b": "Sobretensión en la línea",
+      "c": "Cortocircuito en el manómetro",
+      "d": "Fusible del ventilador quemado únicamente",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Si el selector está en posición 0 y la presión sube, ¿qué tipo de alarma podría activarse?",
+      "a": "Alarma de baja presión",
+      "b": "Alarma de nivel bajo",
+      "c": "Ninguna alarma se activará",
+      "d": "Alarma de alta presión",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuántas fases tiene la alimentación eléctrica requerida por el sistema?",
+      "a": "Una fase",
+      "b": "Dos fases",
+      "c": "Tres fases",
+      "d": "Cuatro fases",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "En el diagnóstico básico de 5 pasos, ¿cuál es el paso 2?",
+      "a": "Verificar si hay alarma activa",
+      "b": "Verificar la posición del selector (debe estar en Automático)",
+      "c": "Escuchar la condensadora",
+      "d": "Leer el manómetro",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Si un conductor detecta una alarma activa en el paso 5 del diagnóstico, ¿qué debe hacer?",
+      "a": "Seguir el protocolo de alarmas",
+      "b": "Intentar reparar el problema él mismo",
+      "c": "Ignorarla si la presión está en rango verde",
+      "d": "Apagar el tablero completamente",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Por qué un nivel bajo de tanque podría causar alarma de baja presión?",
+      "a": "Porque el tanque se congela",
+      "b": "Porque la condensadora se activa innecesariamente",
+      "c": "Porque hay menos CO2 para mantener la presión del sistema",
+      "d": "Porque el selector cambia a posición 0 automáticamente",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "El tablero muestra luz roja encendida y la campana suena continuamente. La presión marca 340 PSIG. ¿Qué tipo de alarma es?",
+      "a": "Alarma de baja presión",
+      "b": "Alarma de alta presión",
+      "c": "Alarma de nivel",
+      "d": "Alarma de temperatura",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "El tablero muestra alarma y la presión marca 200 PSIG. ¿Qué tipo de alarma es?",
+      "a": "Alarma de alta presión",
+      "b": "Alarma de sobrecalentamiento",
+      "c": "Alarma de nivel alto",
+      "d": "Alarma de baja presión",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué frecuencia tiene la alimentación eléctrica requerida?",
+      "a": "60 Hz",
+      "b": "40 Hz",
+      "c": "50 Hz",
+      "d": "70 Hz",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Después de identificar una alarma de alta presión, ¿qué debe verificar el conductor respecto al selector?",
+      "a": "Que esté en Automático",
+      "b": "Que esté en Manual",
+      "c": "Que esté en posición 0",
+      "d": "Que esté desconectado",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué indica que el tablero SÍ tiene energía eléctrica?",
+      "a": "La condensadora está funcionando",
+      "b": "El manómetro marca presión",
+      "c": "La válvula de seguridad está cerrada",
+      "d": "Hay luces encendidas en el tablero",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Un conductor encuentra los fusibles del tablero saltados. ¿Qué debe hacer?",
+      "a": "Reemplazar los fusibles él mismo",
+      "b": "Reportar la situación al supervisor",
+      "c": "Abrir el tablero y reconectar manualmente",
+      "d": "Ignorarlo y realizar la descarga",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es el voltaje de la alimentación trifásica requerida?",
+      "a": "220V",
+      "b": "440V",
+      "c": "380V",
+      "d": "110V",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué componente del tablero permite silenciar la señal acústica de una alarma?",
+      "a": "El selector Manual-0-Automático",
+      "b": "El interruptor general",
+      "c": "El disyuntor principal",
+      "d": "El botón de aceptación de alarma",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Si la presión está en 310 PSIG y la condensadora NO se escucha funcionando, ¿qué podría estar mal?",
+      "a": "La condensadora debería estar funcionando (arranca a 300 PSIG), posible falla",
+      "b": "Es normal, la condensadora arranca a 320 PSIG",
+      "c": "La condensadora solo funciona en modo Manual",
+      "d": "El manómetro está descalibrado seguramente",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Quién es el único autorizado para abrir el tablero eléctrico?",
+      "a": "El conductor con experiencia",
+      "b": "El supervisor de turno",
+      "c": "El encargado del cliente",
+      "d": "Un técnico calificado",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes NO es un paso del protocolo tras aceptar una alarma?",
+      "a": "Leer el manómetro para conocer la presión actual",
+      "b": "Abrir el tablero para inspeccionar circuitos",
+      "c": "Verificar la posición del selector",
+      "d": "Reportar al supervisor",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Si hay un corte de energía en la zona del cliente, ¿qué consecuencia directa tiene sobre el tanque?",
+      "a": "El tanque se vacía automáticamente",
+      "b": "Las válvulas se abren de emergencia",
+      "c": "La condensadora no puede funcionar y la presión puede subir",
+      "d": "El CO2 se solidifica dentro del tanque",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué es importante documentar CADA alarma?",
+      "a": "Para mantener trazabilidad, detectar patrones y facilitar el mantenimiento",
+      "b": "Solo por requisito administrativo",
+      "c": "Para cobrar los gastos al cliente",
+      "d": "Solo para el informe mensual",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Un conductor nota que el cable de alimentación del tablero está dañado. ¿Qué debe hacer?",
+      "a": "Repararlo con cinta aislante",
+      "b": "Desconectarlo y reconectarlo",
+      "c": "Ignorarlo si el tablero funciona",
+      "d": "Reportarlo y no intentar repararlo",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es la secuencia correcta del diagnóstico básico de 5 pasos?",
+      "a": "Manómetro → Selector → Energía → Condensadora → Alarma",
+      "b": "Energía → Selector → Manómetro → Condensadora → Alarma",
+      "c": "Alarma → Energía → Selector → Manómetro → Condensadora",
+      "d": "Selector → Energía → Alarma → Manómetro → Condensadora",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué significa que la lectura del manómetro esté en rango verde durante el diagnóstico?",
+      "a": "Que hay una fuga en el sistema",
+      "b": "Que la condensadora está apagada",
+      "c": "Que la presión está entre 220-320 PSIG y es correcta",
+      "d": "Que el tablero no tiene energía",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuántos principios clave tiene el manejo del tablero eléctrico?",
+      "a": "3",
+      "b": "4",
+      "c": "6",
+      "d": "5",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Si la alarma de alta presión se activa repetidamente después de ser atendida, ¿qué debe hacer el conductor?",
+      "a": "Seguir silenciándola cada vez que suene",
+      "b": "Reportar la situación al supervisor ya que indica un problema persistente",
+      "c": "Desconectar la alarma",
+      "d": "Cambiar el selector a Manual",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué elemento del tablero se conecta con la bomba del camión cisterna durante la descarga?",
+      "a": "El selector automático",
+      "b": "El manómetro del tablero",
+      "c": "La conexión eléctrica del tablero con la bomba del camión",
+      "d": "El botón de aceptación de alarma",
+      "correcta": "c"
+    }
+  ],
+  "clase_06": [
+    {
+      "pregunta": "¿Cuál es el instrumento más importante para evaluar en tiempo real el estado de una cisterna de CO2?",
+      "a": "El termómetro",
+      "b": "El caudalímetro",
+      "c": "El nivel de líquido",
+      "d": "El manómetro",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es el primer paso para una lectura precisa del manómetro?",
+      "a": "Posición frontal a la altura de los ojos para evitar error de paralaje",
+      "b": "Registrar el valor inmediatamente",
+      "c": "Golpear suavemente la carcasa del manómetro",
+      "d": "Comparar con lecturas anteriores",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuántos segundos se debe esperar para que la aguja se estabilice antes de leer?",
+      "a": "5 segundos",
+      "b": "10 segundos",
+      "c": "30 segundos",
+      "d": "20 segundos",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el error de paralaje en la lectura del manómetro?",
+      "a": "Un error causado por la vibración del instrumento",
+      "b": "Un defecto de fabricación del manómetro",
+      "c": "Un error de lectura causado por leer desde un ángulo lateral en vez de frontal",
+      "d": "Una diferencia entre la escala PSI y BAR",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué dato debe registrarse junto con el valor del manómetro?",
+      "a": "La temperatura ambiente",
+      "b": "El nombre del cliente",
+      "c": "El número de serie del manómetro",
+      "d": "La hora de la lectura",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Con qué se debe comparar cada lectura del manómetro?",
+      "a": "Con las lecturas anteriores",
+      "b": "Con la especificación del fabricante",
+      "c": "Con la presión atmosférica",
+      "d": "Con la temperatura del tanque",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué rango de presión indica la zona VERDE del manómetro?",
+      "a": "200-300 PSIG",
+      "b": "220-320 PSIG",
+      "c": "240-320 PSIG",
+      "d": "250-350 PSIG",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué significa si la aguja del manómetro está en zona ROJA?",
+      "a": "Operación normal",
+      "b": "Precaución, monitorear",
+      "c": "Acción inmediata requerida",
+      "d": "El manómetro necesita calibración",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué significa la zona AMARILLA del manómetro?",
+      "a": "Operación normal",
+      "b": "Emergencia",
+      "c": "Manómetro descalibrado",
+      "d": "Precaución",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿A qué presión se activa el consumo de líquido automáticamente?",
+      "a": "240 PSI",
+      "b": "220 PSI",
+      "c": "270 PSI",
+      "d": "300 PSI",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿A qué presión se retorna al consumo de gas?",
+      "a": "240 PSI",
+      "b": "270 PSI",
+      "c": "300 PSI",
+      "d": "320 PSI",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿A qué presión arranca la condensadora?",
+      "a": "270 PSI",
+      "b": "320 PSI",
+      "c": "300 PSI",
+      "d": "350 PSI",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿A qué presión se detiene la condensadora?",
+      "a": "270 PSI",
+      "b": "240 PSI",
+      "c": "300 PSI",
+      "d": "220 PSI",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿A qué presión se activa la alarma del sistema?",
+      "a": "300 PSI",
+      "b": "350 PSI",
+      "c": "340 PSI",
+      "d": "320 PSI",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿A qué presión se abre la válvula de seguridad?",
+      "a": "320 PSI",
+      "b": "350 PSI",
+      "c": "340 PSI",
+      "d": "380 PSI",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "En la secuencia típica de operación, cuando la presión baja por consumo hasta 240 PSI, ¿qué sucede?",
+      "a": "La condensadora se activa",
+      "b": "La alarma de baja presión suena",
+      "c": "Se activa el consumo de líquido",
+      "d": "La válvula de seguridad se abre",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué ocurre cuando el líquido pasa por el evaporador?",
+      "a": "Se enfría más",
+      "b": "Se solidifica",
+      "c": "Se diluye en agua",
+      "d": "Se gasifica y la presión sube",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Cuando la presión sube a 270 PSI después de consumo de líquido, ¿qué sucede?",
+      "a": "Se reanuda el consumo de gas",
+      "b": "La condensadora arranca",
+      "c": "Se activa la alarma",
+      "d": "La válvula de seguridad se abre",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Si la presión sigue subiendo más allá de 270 PSI, ¿a qué presión arranca la condensadora?",
+      "a": "280 PSI",
+      "b": "290 PSI",
+      "c": "310 PSI",
+      "d": "300 PSI",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué indica una presión que NO baja a pesar del consumo del cliente?",
+      "a": "Operación normal",
+      "b": "Posible falla en el sistema de consumo",
+      "c": "El manómetro está correcto",
+      "d": "La condensadora funciona bien",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué indica una presión que NO sube cuando debería?",
+      "a": "Todo funciona correctamente",
+      "b": "El cliente consume demasiado",
+      "c": "Posible fuga o problema en el sistema",
+      "d": "La condensadora está funcionando muy bien",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué indica un salto brusco en la lectura de presión?",
+      "a": "Posible anomalía que requiere investigación",
+      "b": "Operación normal del sistema automático",
+      "c": "Cambio de consumo gas a líquido normal",
+      "d": "La condensadora arrancó",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿En qué situación se debe reemplazar INMEDIATAMENTE un manómetro?",
+      "a": "Cuando marca presión en zona verde",
+      "b": "Cuando han pasado 6 meses de uso",
+      "c": "Cuando la presión está en 280 PSI",
+      "d": "Cuando la aguja está trabada/pegada",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál de estas condiciones requiere reemplazo inmediato del manómetro?",
+      "a": "Lectura estable en 260 PSI",
+      "b": "Vidrio roto o rajado",
+      "c": "Lectura que coincide con otro manómetro",
+      "d": "Aguja en zona verde",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué condición del manómetro indica necesidad de reemplazo?",
+      "a": "Lectura estable de 270 PSI",
+      "b": "Vibración leve de la aguja",
+      "c": "Condensación interna en el vidrio",
+      "d": "Posición frontal difícil",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuándo se debe solicitar calibración del manómetro?",
+      "a": "Cuando la lectura es estable pero incorrecta comparada con referencia",
+      "b": "Cada vez que se descarga CO2",
+      "c": "Solo cuando el manómetro es nuevo",
+      "d": "Nunca, los manómetros no se calibran",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Después de cuántos meses sin calibración se debe solicitar una?",
+      "a": "6 meses",
+      "b": "12 meses",
+      "c": "18 meses",
+      "d": "24 meses",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué hacer si un manómetro sufrió un impacto fuerte o vibración severa?",
+      "a": "Continuar usándolo si la aguja se mueve",
+      "b": "Limpiarlo y seguir usándolo",
+      "c": "Solicitar calibración",
+      "d": "Cambiarle el vidrio",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué porcentaje de diferencia con un manómetro de referencia justifica reemplazo?",
+      "a": "Mayor al 5%",
+      "b": "Mayor al 15%",
+      "c": "Mayor al 20%",
+      "d": "Mayor al 10%",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es un error común al leer el manómetro?",
+      "a": "Leer desde posición frontal",
+      "b": "Esperar estabilización de la aguja",
+      "c": "No registrar el valor leído",
+      "d": "Comparar con lecturas anteriores",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué error se comete al leer el manómetro mientras la aguja se mueve?",
+      "a": "Error de paralaje",
+      "b": "Error por vibración (lectura inexacta)",
+      "c": "Error de calibración",
+      "d": "Error de temperatura",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué error se comete al ignorar cambios graduales de presión entre visitas?",
+      "a": "Se pierde información valiosa para detectar tendencias o fallas",
+      "b": "No es un error, los cambios graduales no importan",
+      "c": "Solo importa si el cambio es mayor a 50 PSI",
+      "d": "Los cambios graduales solo los analiza el técnico",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuáles son las 5 claves del manejo del manómetro?",
+      "a": "Leer rápido, conocer colores, reportar siempre, cambiar mensualmente, no tocar",
+      "b": "Calibrar diario, leer lateral, registrar semanal, reportar, limpiar",
+      "c": "Instalar recto, leer a distancia, no tocar, calibrar, reemplazar",
+      "d": "Leer frontal, conocer zonas, entender umbrales, usar como diagnóstico, registrar lecturas",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué se puede usar el manómetro como herramienta de diagnóstico para detectar?",
+      "a": "Solo presión actual",
+      "b": "Temperatura del CO2",
+      "c": "Patrones de falla según el comportamiento de la presión",
+      "d": "Nivel exacto del tanque",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "En modo Automático, ¿cuál es la secuencia correcta de umbrales de presión de menor a mayor?",
+      "a": "220→240→270→300→320→350",
+      "b": "240→270→300→320→350→380",
+      "c": "220→240→300→270→320→350",
+      "d": "200→240→270→300→350→380",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué representa el umbral de 220 PSI?",
+      "a": "Inicio de consumo líquido",
+      "b": "Parada de condensadora",
+      "c": "Apertura de válvula de seguridad",
+      "d": "Alarma de baja presión",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Si la presión está en 260 PSI y estable, ¿en qué modo de consumo está el sistema?",
+      "a": "Consumo de líquido",
+      "b": "Consumo de gas",
+      "c": "La condensadora está funcionando",
+      "d": "El sistema está apagado",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Si la presión está en 235 PSI, ¿en qué modo de consumo debería estar el sistema?",
+      "a": "Consumo de gas",
+      "b": "La condensadora debería estar funcionando",
+      "c": "Consumo de líquido (se activó al bajar de 240)",
+      "d": "El sistema debería estar en alarma",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Si la presión está en 310 PSI, ¿qué debería estar funcionando?",
+      "a": "Solo el consumo de gas",
+      "b": "Solo el consumo de líquido",
+      "c": "La válvula de seguridad",
+      "d": "La condensadora (se activó al superar 300 PSI)",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué ocurre si la condensadora enfría el tanque y la presión baja a 270 PSI?",
+      "a": "La condensadora se detiene",
+      "b": "La alarma se activa",
+      "c": "Se abre la válvula de seguridad",
+      "d": "Se inicia el consumo de líquido",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Un conductor lee 330 PSIG en el manómetro. ¿En qué zona de color está?",
+      "a": "Verde",
+      "b": "Amarilla",
+      "c": "Depende del tipo de manómetro",
+      "d": "Roja",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Un conductor lee 280 PSIG. ¿En qué zona de color está?",
+      "a": "Roja",
+      "b": "Verde",
+      "c": "Amarilla",
+      "d": "Fuera de escala",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es el quinto paso para una lectura precisa del manómetro?",
+      "a": "Limpiar el vidrio del manómetro",
+      "b": "Golpear levemente el manómetro",
+      "c": "Verificar coherencia con el estado del sistema",
+      "d": "Tomar una foto de la lectura",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué significa lecturas erráticas en el manómetro?",
+      "a": "Que el manómetro necesita reemplazo inmediato",
+      "b": "Que el sistema funciona correctamente en modo automático",
+      "c": "Que la condensadora está arrancando",
+      "d": "Que hay consumo intermitente del cliente",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué patrón de presión sugiere que hay una fuga en el sistema?",
+      "a": "Presión que sube constantemente",
+      "b": "Presión que baja continuamente sin que haya consumo normal",
+      "c": "Presión que se mantiene estable",
+      "d": "Presión que oscila entre 240 y 270",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Por qué es importante conocer los umbrales automáticos (240, 270, 300, 320, 350)?",
+      "a": "Solo para pasar los exámenes de capacitación",
+      "b": "Para poder ajustarlos manualmente si es necesario",
+      "c": "Para verificar si el sistema responde correctamente según la presión observada",
+      "d": "No es necesario memorizarlos, están en el manual",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Si la presión marca 350 PSIG, ¿qué debería estar ocurriendo además de la alarma?",
+      "a": "La condensadora debería detenerse",
+      "b": "El consumo de líquido debería activarse",
+      "c": "El tablero debería apagarse automáticamente",
+      "d": "La válvula de seguridad debería abrirse",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué ciclo se repite constantemente en modo Automático?",
+      "a": "Presión baja→líquido→sube→gas→baja→líquido",
+      "b": "Gas permanente sin cambios",
+      "c": "Condensadora permanentemente encendida",
+      "d": "Alternancia entre alarma alta y baja",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre solicitar calibración y reemplazar el manómetro?",
+      "a": "No hay diferencia, es lo mismo",
+      "b": "Calibración solo la hace el fabricante; reemplazo lo hace el conductor",
+      "c": "Calibración es cuando la lectura es estable pero incorrecta; reemplazo cuando hay daño físico o lecturas erráticas",
+      "d": "Reemplazo es más barato que calibración",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué información proporciona comparar la lectura del manómetro con el estado del sistema?",
+      "a": "Solo la presión actual",
+      "b": "Si el sistema automático está respondiendo correctamente a la presión",
+      "c": "La temperatura del CO2",
+      "d": "El caudal de consumo del cliente",
+      "correcta": "b"
+    }
+  ],
+  "clase_07": [
+    {
+      "pregunta": "¿Cuál es el propósito principal del sistema de consumo y automatización?",
+      "a": "Mantener el CO2 a temperatura ambiente",
+      "b": "Generar presión máxima en el tanque",
+      "c": "Entregar CO2 al cliente de forma continua sin intervención constante del operador",
+      "d": "Controlar el nivel de líquido manualmente",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Está el tanque de CO2 aislado del sistema del cliente?",
+      "a": "Sí, siempre está completamente aislado",
+      "b": "No, está conectado al cliente mediante tuberías, válvulas y reguladores",
+      "c": "Solo durante las descargas",
+      "d": "Solo cuando el selector está en Automático",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué le llega al cliente final en ambos modos de consumo (gas y líquido)?",
+      "a": "CO2 en estado gaseoso",
+      "b": "CO2 líquido",
+      "c": "CO2 sólido",
+      "d": "Depende del modo de consumo",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "En el consumo gaseoso, ¿de qué parte del tanque sale el CO2?",
+      "a": "Del fondo del tanque",
+      "b": "De la conexión lateral",
+      "c": "Del centro del tanque",
+      "d": "De la parte superior del tanque",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Por qué válvulas pasa el CO2 en consumo gaseoso?",
+      "a": "V1-V2-V3-V4",
+      "b": "V6-V7-V8",
+      "c": "V1-V5-V8",
+      "d": "V3-V4-V5",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "En el consumo de líquido, ¿de qué parte del tanque sale el CO2?",
+      "a": "Del fondo del tanque",
+      "b": "De la parte superior",
+      "c": "De la conexión de venteo",
+      "d": "De la fase gaseosa",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Por qué válvulas pasa el CO2 en consumo de líquido?",
+      "a": "V6-V7-V8",
+      "b": "V1-V5-V6",
+      "c": "V1-V2-V3-V4",
+      "d": "V3-V8-V4",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué componente convierte el CO2 líquido en gas antes de llegar al cliente?",
+      "a": "La condensadora",
+      "b": "El compresor",
+      "c": "La válvula de seguridad",
+      "d": "El evaporador (V5)",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "En modo Automático, ¿qué ocurre cuando la presión está a 270 PSI?",
+      "a": "Se abre V3 para consumo de líquido",
+      "b": "Se abre V8 para consumo de gas y se cierra V3",
+      "c": "La condensadora arranca",
+      "d": "Se activa la alarma",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "En modo Automático, ¿qué ocurre cuando la presión baja a 240 PSI?",
+      "a": "Se cierra V8 y se abre V3 para consumo de líquido",
+      "b": "Se abre V8 para consumo de gas",
+      "c": "La condensadora se detiene",
+      "d": "Se activa la alarma de baja presión",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es el rango de presión que el modo Automático mantiene entre consumo de gas y líquido?",
+      "a": "220-320 PSI",
+      "b": "270-300 PSI",
+      "c": "240-270 PSI",
+      "d": "300-350 PSI",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué posición del selector se recomienda para operación normal?",
+      "a": "Manual",
+      "b": "Posición 0",
+      "c": "Cualquier posición es correcta",
+      "d": "Automático",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué hace la posición 0 (cero) del selector?",
+      "a": "Activa el consumo máximo de gas",
+      "b": "Desactiva los solenoides, V3 y V8 cerradas, sin consumo",
+      "c": "Activa la condensadora a máxima potencia",
+      "d": "Abre todas las válvulas simultáneamente",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Puede funcionar la condensadora cuando el selector está en posición 0?",
+      "a": "No, todo el sistema se apaga",
+      "b": "Solo si la presión supera 350 PSI",
+      "c": "Sí, la condensadora puede seguir operando",
+      "d": "Solo si se activa manualmente",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuándo se recomienda usar la posición 0 del selector?",
+      "a": "Durante toda la operación",
+      "b": "Solo en emergencias",
+      "c": "Nunca se debe usar",
+      "d": "Cuando el cliente termina su consumo diario",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué ocurre en modo Manual con las válvulas V8 y V3?",
+      "a": "V8 abierta permanentemente, V3 cerrada",
+      "b": "Ambas abiertas",
+      "c": "V8 permanentemente CERRADA, V3 permanentemente ABIERTA",
+      "d": "Ambas cerradas",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "En modo Manual, ¿qué tipo de consumo se tiene?",
+      "a": "Solo consumo de líquido, sin alternancia automática",
+      "b": "Solo consumo de gas",
+      "c": "Alternancia automática gas-líquido",
+      "d": "No hay consumo",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Para qué situaciones está reservado el modo Manual?",
+      "a": "Para operación diaria normal",
+      "b": "Para emergencias o cuando el sistema automático falla",
+      "c": "Para cuando el cliente consume mucho",
+      "d": "Para descargas de CO2",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Es correcto usar el modo Manual para operación normal?",
+      "a": "Sí, es equivalente al Automático",
+      "b": "Sí, pero solo durante el día",
+      "c": "Sí, si el conductor tiene experiencia",
+      "d": "No, NO es para operación normal",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Describa el paso 1 del ciclo automático de consumo:",
+      "a": "El presostato abre V8 a 270 PSI para consumo de gas",
+      "b": "La condensadora arranca",
+      "c": "Se abre V3 para consumo de líquido",
+      "d": "La válvula de seguridad se abre",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "En el ciclo automático, ¿qué sucede en el paso 3 cuando la presión llega a 240 PSI?",
+      "a": "La condensadora arranca",
+      "b": "Se cierra V8 y se abre V3 para consumo de líquido",
+      "c": "La alarma se activa",
+      "d": "El sistema se apaga",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "En el ciclo automático, ¿qué hace el evaporador en el paso 4?",
+      "a": "Enfría el gas",
+      "b": "Comprime el CO2",
+      "c": "Gasifica el líquido que pasa por él",
+      "d": "Mide la presión",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué sucede con la presión del tanque cuando el líquido se gasifica en el evaporador?",
+      "a": "Baja",
+      "b": "Se mantiene igual",
+      "c": "Fluctúa erráticamente",
+      "d": "Sube",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Cuando la presión sube a 270 PSI en el ciclo automático, ¿qué ocurre?",
+      "a": "Se cierra V3 y se abre V8 (vuelve a consumo de gas)",
+      "b": "Se abre V3 y se cierra V8",
+      "c": "La condensadora arranca",
+      "d": "La alarma se activa",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuándo interviene la condensadora en el sistema de consumo?",
+      "a": "Cuando la presión baja de 240 PSI",
+      "b": "Siempre está funcionando",
+      "c": "Cuando la presión sube más allá de 270 PSI sin que baje (300 PSI arranca)",
+      "d": "Solo en modo Manual",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué la presión podría subir más allá de 270 PSI sin bajar?",
+      "a": "Porque el tanque está lleno",
+      "b": "Porque el cliente redujo su consumo",
+      "c": "Porque la condensadora está funcionando",
+      "d": "Porque hay una fuga",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿A qué presión arranca la condensadora cuando la presión sigue subiendo?",
+      "a": "270 PSI",
+      "b": "280 PSI",
+      "c": "320 PSI",
+      "d": "300 PSI",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿A qué presión se detiene la condensadora?",
+      "a": "270 PSI",
+      "b": "240 PSI",
+      "c": "250 PSI",
+      "d": "260 PSI",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Un conductor llega al cliente y encuentra el selector en posición 0. ¿Qué significa?",
+      "a": "El sistema está en operación normal",
+      "b": "Los solenoides están desactivados, no hay consumo de gas ni líquido",
+      "c": "La condensadora está apagada",
+      "d": "Hay una emergencia activa",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Si el cliente necesita CO2 y el selector está en 0, ¿qué debe hacer el conductor?",
+      "a": "Dejarlo en 0 y abrir válvulas manualmente",
+      "b": "Cambiar a posición Manual",
+      "c": "Cambiar a posición Automático",
+      "d": "Llamar al técnico para que cambie el selector",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el papel del conductor respecto al sistema automático?",
+      "a": "Intervenir y ajustar las válvulas frecuentemente",
+      "b": "Reparar fallas en el sistema de solenoides",
+      "c": "Cambiar entre Manual y Automático según el consumo",
+      "d": "Verificar que funcione correctamente; si no funciona, reportar",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué válvula es responsable del consumo de gas en el circuito?",
+      "a": "V3",
+      "b": "V5",
+      "c": "V1",
+      "d": "V8",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué válvula es responsable del consumo de líquido en el circuito?",
+      "a": "V3",
+      "b": "V8",
+      "c": "V6",
+      "d": "V7",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué componente detecta la presión para activar los cambios automáticos?",
+      "a": "El manómetro",
+      "b": "El presostato",
+      "c": "El termómetro",
+      "d": "El caudalímetro",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cómo afecta el consumo del cliente a la presión del tanque?",
+      "a": "No la afecta porque están aislados",
+      "b": "Solo la afecta en modo Manual",
+      "c": "El consumo del cliente hace que la presión del tanque baje",
+      "d": "El consumo del cliente hace que la presión suba",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia principal entre consumo gaseoso y líquido para el cliente?",
+      "a": "En gaseoso recibe gas y en líquido recibe líquido",
+      "b": "En gaseoso la presión es mayor",
+      "c": "En líquido el caudal es menor",
+      "d": "Ninguna para el cliente, en ambos casos recibe gas",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuántas claves principales tiene el sistema de consumo y automatización?",
+      "a": "5",
+      "b": "3",
+      "c": "4",
+      "d": "6",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es la primera clave del sistema de consumo?",
+      "a": "Entender el ciclo 270-240-270",
+      "b": "Selector siempre en Automático",
+      "c": "Manual solo para emergencias",
+      "d": "Posición 0 al final del día",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la segunda clave del sistema de consumo?",
+      "a": "Selector en Automático siempre",
+      "b": "Manual solo para emergencias",
+      "c": "Entender el ciclo 270-240-270",
+      "d": "Observar pero no intervenir",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Un conductor nota que la presión está en 250 PSI y bajando en modo Automático. ¿Es esto normal?",
+      "a": "No, debería estar subiendo",
+      "b": "Sí, el sistema está entre cambios de consumo (entre 240 y 270)",
+      "c": "No, hay una falla grave",
+      "d": "Solo es normal en modo Manual",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Si el selector está en Manual y la presión sigue bajando sin control, ¿qué puede estar pasando?",
+      "a": "Es normal en modo Manual",
+      "b": "La condensadora está funcionando en exceso",
+      "c": "El consumo de líquido permanente está drenando el tanque sin alternancia",
+      "d": "V8 está abierta",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué NO se debe usar el modo Manual como solución permanente?",
+      "a": "Porque gasta más electricidad",
+      "b": "Porque el cliente recibe líquido en vez de gas",
+      "c": "Porque la condensadora no funciona en Manual",
+      "d": "Porque no permite alternancia automática y puede causar problemas de presión",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué debe hacer el conductor si observa que el sistema automático no está alternando correctamente?",
+      "a": "Reportar al supervisor",
+      "b": "Cambiar a modo Manual",
+      "c": "Ajustar las válvulas V3 y V8 manualmente",
+      "d": "Apagar el tablero eléctrico",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Si la presión está en 240 PSI y V8 sigue abierta (consumo de gas), ¿qué indica?",
+      "a": "Operación normal",
+      "b": "Posible falla del presostato o solenoide (debería haber cambiado a líquido)",
+      "c": "El modo Manual está activado",
+      "d": "La condensadora interfiere con el cambio",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué sucedería si el selector permanece en Automático las 24 horas sin ponerlo en 0 de noche?",
+      "a": "El sistema se dañaría irreparablemente",
+      "b": "El tanque explotaría",
+      "c": "Seguiría alternando consumo innecesariamente cuando el cliente no consume",
+      "d": "No pasaría nada diferente",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la quinta clave del sistema de consumo?",
+      "a": "Selector en Automático",
+      "b": "Manual para emergencias",
+      "c": "Posición 0 al final del día",
+      "d": "Observar y no intervenir; verificar, y si no funciona, reportar",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué tipo de consumo es más simple técnicamente?",
+      "a": "Consumo de líquido",
+      "b": "Consumo gaseoso",
+      "c": "Ambos son igual de complejos",
+      "d": "Depende del tipo de tanque",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuántos ciclos de alternancia gas-líquido pueden ocurrir en un día típico?",
+      "a": "Solo uno",
+      "b": "Exactamente tres",
+      "c": "Múltiples, el ciclo se repite según el consumo del cliente",
+      "d": "Ninguno si está en Automático",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la tercera clave del sistema de consumo?",
+      "a": "Posición 0 cuando termina el consumo diario del cliente",
+      "b": "Selector en Automático",
+      "c": "Entender el ciclo 270-240-270",
+      "d": "Manual solo para emergencias",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué es la cuarta clave del sistema de consumo?",
+      "a": "Entender el ciclo de presión",
+      "b": "Manual solo para emergencias",
+      "c": "Posición 0 al final del día",
+      "d": "Observar y no intervenir",
+      "correcta": "b"
+    }
+  ],
+  "clase_08": [
+    {
+      "pregunta": "¿Cuál es la función principal de la unidad condensadora?",
+      "a": "Calentar el CO2 para mantener el flujo",
+      "b": "Mantener la presión del tanque dentro del rango operativo mediante refrigeración",
+      "c": "Comprimir el CO2 para aumentar su densidad",
+      "d": "Medir la presión interna del tanque",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué sucedería sin la unidad condensadora?",
+      "a": "El calor ambiental elevaría la presión hasta que las válvulas de seguridad se activen, causando pérdida de producto y condición peligrosa",
+      "b": "El tanque se congelaría",
+      "c": "El CO2 se solidificaría",
+      "d": "El consumo del cliente se detendría",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué gas refrigerante utiliza la unidad condensadora?",
+      "a": "R-134a",
+      "b": "R-410a",
+      "c": "R-22",
+      "d": "CO2",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿El refrigerante R-22 y el CO2 se mezclan dentro del sistema?",
+      "a": "Sí, se mezclan en el serpentín",
+      "b": "Solo en emergencias",
+      "c": "Se mezclan cuando la presión supera 350 PSI",
+      "d": "NUNCA, son circuitos completamente separados",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es el primer paso del ciclo de refrigeración?",
+      "a": "El compresor comprime el R-22 y eleva su temperatura",
+      "b": "El ventilador enfría el R-22",
+      "c": "El R-22 circula por el serpentín",
+      "d": "El acumulador de succión protege el compresor",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cómo se disipa el calor del R-22 comprimido?",
+      "a": "Mediante un sistema de agua",
+      "b": "Mediante un condensador enfriado por aire (con ventilador)",
+      "c": "Mediante contacto directo con el CO2",
+      "d": "Mediante un sistema geotérmico",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Dónde circula el R-22 frío dentro del tanque de CO2?",
+      "a": "Por las tuberías de consumo",
+      "b": "Por las válvulas de seguridad",
+      "c": "Por el serpentín (intercambiador de calor) dentro del tanque",
+      "d": "Por el manómetro",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué hace el serpentín dentro del tanque?",
+      "a": "Calienta el CO2 líquido",
+      "b": "Mide la temperatura del CO2",
+      "c": "Mezcla el R-22 con el CO2",
+      "d": "Absorbe calor del CO2 gaseoso, condensándolo de vuelta a líquido",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué ocurre con la presión del tanque cuando el serpentín absorbe calor del CO2?",
+      "a": "La presión del tanque baja",
+      "b": "Sube",
+      "c": "Se mantiene igual",
+      "d": "Fluctúa erráticamente",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿A qué presión se activa automáticamente la condensadora?",
+      "a": "270 PSIG",
+      "b": "300 PSIG",
+      "c": "280 PSIG",
+      "d": "320 PSIG",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿A qué presión se detiene automáticamente la condensadora?",
+      "a": "240 PSIG",
+      "b": "250 PSIG",
+      "c": "270 PSIG",
+      "d": "260 PSIG",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿En qué posición del selector se activa la condensadora independientemente de la presión?",
+      "a": "Automático",
+      "b": "Posición 0",
+      "c": "No existe tal posición",
+      "d": "Manual",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es la secuencia correcta del circuito de refrigeración?",
+      "a": "Compresor → Condensador de aire → Receptor → Serpentín → Acumulador de succión → Compresor",
+      "b": "Serpentín → Compresor → Condensador de aire → Receptor → Acumulador",
+      "c": "Receptor → Compresor → Serpentín → Condensador → Acumulador",
+      "d": "Acumulador → Serpentín → Compresor → Receptor → Condensador",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es la función del receptor en el circuito de refrigeración?",
+      "a": "Comprimir el R-22",
+      "b": "Almacenar R-22 líquido",
+      "c": "Enfriar el R-22 con aire",
+      "d": "Proteger el compresor",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la función del acumulador de succión?",
+      "a": "Almacenar R-22 líquido",
+      "b": "Enfriar el R-22",
+      "c": "Proteger el compresor",
+      "d": "Medir la presión de R-22",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué tipo de protecciones tiene la condensadora?",
+      "a": "Solo protección contra sobrepresión",
+      "b": "Solo protección eléctrica",
+      "c": "No tiene protecciones, opera continuamente",
+      "d": "Múltiples apagados automáticos ante condiciones anormales",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Si una protección de la condensadora se activa repetidamente, ¿qué significa?",
+      "a": "Existe una falla que requiere servicio técnico",
+      "b": "Es operación normal",
+      "c": "Hay que resetear la protección cada vez",
+      "d": "El conductor debe desactivar la protección",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Puede el conductor desactivar o puentear las protecciones de la condensadora?",
+      "a": "Sí, si tiene autorización del supervisor",
+      "b": "NUNCA debe desactivar ni puentear las protecciones",
+      "c": "Sí, en caso de emergencia",
+      "d": "Solo si la presión supera 350 PSI",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿En qué posición debe estar el selector de la condensadora el 99% del tiempo?",
+      "a": "Manual",
+      "b": "Posición 0",
+      "c": "Automático",
+      "d": "Alternando entre Manual y Automático",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Si la condensadora no arranca en modo Automático, ¿se debe cambiar a Manual como solución?",
+      "a": "Sí, esa es la solución correcta",
+      "b": "Sí, pero solo temporalmente",
+      "c": "Sí, si la presión está por encima de 300 PSI",
+      "d": "No, cambiar a Manual NO es la solución; se debe reportar la falla",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Quién puede poner el selector de la condensadora en posición 0?",
+      "a": "Solo un técnico de servicio",
+      "b": "El conductor en cualquier momento",
+      "c": "Cualquier persona autorizada",
+      "d": "El supervisor de turno",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Por qué es peligroso apagar la condensadora (posición 0) sin motivo técnico?",
+      "a": "Porque gasta más electricidad al reiniciar",
+      "b": "Porque puede causar sobrepresión en el tanque",
+      "c": "Porque daña el compresor",
+      "d": "Porque el R-22 se pierde",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué debe verificar el conductor respecto al estado del condensador de aire?",
+      "a": "La presión de R-22",
+      "b": "El nivel de aceite del compresor",
+      "c": "Que no tenga polvo, hojas ni suciedad que obstruyan el flujo de aire",
+      "d": "Las conexiones eléctricas internas",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cómo puede el conductor detectar vibraciones anormales en la condensadora?",
+      "a": "Con un instrumento de vibración electrónico",
+      "b": "Mirando si la unidad se mueve",
+      "c": "Escuchando desde 10 metros de distancia",
+      "d": "Colocando la mano con guante sobre la carcasa",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es el sonido NORMAL de una condensadora funcionando correctamente?",
+      "a": "Zumbido constante y uniforme",
+      "b": "Silencio total",
+      "c": "Golpeteo rítmico",
+      "d": "Chirrido intermitente",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué tipo de sonido indica un PROBLEMA en la condensadora?",
+      "a": "Zumbido constante",
+      "b": "Golpeteo o chirrido",
+      "c": "Vibración suave",
+      "d": "Silencio cuando está en posición 0",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué temperatura debería tener la línea de descarga de la condensadora?",
+      "a": "Fría",
+      "b": "Temperatura ambiente",
+      "c": "Caliente",
+      "d": "Congelada",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué es importante mantener el área alrededor de la condensadora despejada?",
+      "a": "Por estética",
+      "b": "Para facilitar el acceso del conductor",
+      "c": "Para evitar robos",
+      "d": "Para que nada bloquee la ventilación necesaria para el enfriamiento",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes es una tarea de verificación que SÍ puede hacer el conductor?",
+      "a": "Verificar nivel de R-22",
+      "b": "Revisar conexiones eléctricas internas",
+      "c": "Verificar que el condensador de aire no tenga polvo ni suciedad",
+      "d": "Cambiar aceite del compresor",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes tareas corresponde SOLO al técnico de servicio?",
+      "a": "Verificar nivel de R-22 y presiones de trabajo",
+      "b": "Escuchar ruidos anormales",
+      "c": "Verificar estado del condensador de aire",
+      "d": "Sentir vibraciones en la carcasa",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué incluye el mantenimiento del técnico respecto al compresor?",
+      "a": "Solo limpieza externa",
+      "b": "Revisión de aceite del compresor y horas de operación",
+      "c": "Solo verificar vibraciones",
+      "d": "Reemplazo mensual del compresor",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la primera de las 5 claves de la unidad condensadora?",
+      "a": "Nunca desactivar protecciones",
+      "b": "Libre ventilación siempre",
+      "c": "Selector siempre en Automático",
+      "d": "Reportar cualquier anomalía",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la segunda clave de la unidad condensadora?",
+      "a": "Selector en Automático",
+      "b": "No ignorarla, escucharla (cambios de sonido = problema)",
+      "c": "Ventilación libre",
+      "d": "Nunca desactivar protecciones",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la tercera clave de la unidad condensadora?",
+      "a": "Libre ventilación siempre",
+      "b": "Selector en Automático",
+      "c": "Escucharla siempre",
+      "d": "Reportar anomalías",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es la cuarta clave de la unidad condensadora?",
+      "a": "Selector en Automático",
+      "b": "Libre ventilación",
+      "c": "Escuchar cambios de sonido",
+      "d": "Nunca desactivar ni puentear las protecciones",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es la quinta clave de la unidad condensadora?",
+      "a": "Selector en Automático",
+      "b": "Reportar cualquier anomalía",
+      "c": "Libre ventilación",
+      "d": "Nunca desactivar protecciones",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Un conductor nota que la condensadora hace un ruido de golpeteo que antes no hacía. ¿Qué debe hacer?",
+      "a": "Es normal, los compresores hacen ruido",
+      "b": "Apagarla cambiando a posición 0",
+      "c": "Reportar la anomalía al supervisor/técnico",
+      "d": "Golpear la carcasa para que se acomode",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "La condensadora está funcionando pero hay cajas apiladas contra el condensador de aire. ¿Cuál es el riesgo?",
+      "a": "Bloqueo de ventilación que reduce la eficiencia de enfriamiento",
+      "b": "Ninguno, las cajas no afectan",
+      "c": "Las cajas se pueden incendiar",
+      "d": "El ruido aumentará",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué hace el compresor en el ciclo de refrigeración?",
+      "a": "Enfría el R-22",
+      "b": "Comprime y eleva la temperatura del R-22",
+      "c": "Almacena el R-22 líquido",
+      "d": "Mezcla el R-22 con aceite",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué hace el condensador de aire (con ventilador) en el ciclo?",
+      "a": "Comprime el R-22",
+      "b": "Protege el compresor",
+      "c": "Almacena el R-22",
+      "d": "Enfría el R-22 caliente proveniente del compresor",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Si la línea de descarga de la condensadora está fría en vez de caliente, ¿qué podría indicar?",
+      "a": "Operación normal",
+      "b": "Exceso de R-22 en el sistema",
+      "c": "Posible falla en el compresor (no está comprimiendo correctamente)",
+      "d": "Temperatura ambiental muy baja",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué la condensadora utiliza un circuito separado del CO2?",
+      "a": "Para evitar contaminación del CO2 con refrigerante y mantener la seguridad",
+      "b": "Por costo, el R-22 es más barato",
+      "c": "Porque el CO2 no puede usarse como refrigerante",
+      "d": "Por razones estéticas del diseño",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué ocurre cuando el CO2 gaseoso pierde calor al contacto con el serpentín frío?",
+      "a": "Se calienta más",
+      "b": "Se condensa, volviendo a estado líquido, y la presión baja",
+      "c": "Se solidifica",
+      "d": "Se expande y la presión sube",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Con qué frecuencia debe el técnico revisar las conexiones eléctricas de la condensadora?",
+      "a": "Nunca, son permanentes",
+      "b": "Solo cuando hay una falla",
+      "c": "Durante el mantenimiento preventivo periódico",
+      "d": "El conductor las revisa semanalmente",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Si la condensadora NO arranca cuando la presión llega a 305 PSIG y el selector está en Automático, ¿cuál es la acción correcta del conductor?",
+      "a": "Cambiar a Manual para forzar el arranque",
+      "b": "Esperar a que llegue a 320 para que arranque",
+      "c": "Apagar el tablero y reiniciarlo",
+      "d": "Verificar que haya energía eléctrica y reportar la falla",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué revisa el técnico respecto al R-22 durante el mantenimiento?",
+      "a": "El nivel (carga) de R-22 en el sistema",
+      "b": "Solo la marca del refrigerante",
+      "c": "La temperatura del R-22 a la salida",
+      "d": "Solo si hay fugas visibles",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuántos componentes principales tiene el circuito de refrigeración?",
+      "a": "4",
+      "b": "5",
+      "c": "6",
+      "d": "7",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué diferencia el mantenimiento que hace el conductor del que hace el técnico?",
+      "a": "No hay diferencia, ambos hacen lo mismo",
+      "b": "El conductor realiza inspección visual/auditiva externa; el técnico realiza revisiones internas y especializadas",
+      "c": "El conductor cambia componentes; el técnico supervisa",
+      "d": "El técnico solo limpia; el conductor repara",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Un conductor detecta que la condensadora tiene la carcasa con vibración excesiva y un chirrido agudo. ¿Qué debe hacer?",
+      "a": "Continuar operando y revisar en la próxima visita",
+      "b": "Apretar los tornillos de la carcasa",
+      "c": "Reportar inmediatamente la anomalía al supervisor y/o técnico",
+      "d": "Cambiar el selector a posición 0",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué tarea de limpieza del condensador de aire corresponde al técnico de servicio?",
+      "a": "Verificar visualmente si hay suciedad",
+      "b": "Reportar obstrucciones al supervisor",
+      "c": "Limpieza profunda del condensador de aire",
+      "d": "Retirar cajas u objetos del área",
+      "correcta": "c"
+    }
+  ],
+  "clase_09": [
+    {
+      "pregunta": "¿Cuál es la función principal del sistema de seguridad del tanque de CO2?",
+      "a": "Ser la última línea de defensa contra sobrepresión y ruptura catastrófica",
+      "b": "Regular la temperatura del producto",
+      "c": "Controlar el flujo de CO2 al cliente",
+      "d": "Medir el contenido del tanque",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuáles son los tres componentes principales del sistema de seguridad del tanque?",
+      "a": "Manómetro, condensador y panel eléctrico",
+      "b": "Celdas de carga, controlador y display",
+      "c": "Presostato, solenoide y compresor",
+      "d": "Válvulas de seguridad, discos de ruptura y válvula de transferencia",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué tipo de válvula es la válvula de transferencia del sistema de seguridad?",
+      "a": "Válvula de tres vías",
+      "b": "Válvula de bola",
+      "c": "Válvula de mariposa",
+      "d": "Válvula de compuerta",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cómo se conecta la válvula de transferencia al recipiente de presión?",
+      "a": "A través de múltiples filtros y reducciones",
+      "b": "Mediante una conexión flexible de alta presión",
+      "c": "Usando codos y mangueras estándar",
+      "d": "De forma directa, sin elementos intermedios que puedan bloquear el flujo",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué elementos están PROHIBIDOS en la conexión entre el tanque y las válvulas de seguridad?",
+      "a": "Codos, reducciones o filtros",
+      "b": "Tubería recta y de diámetro suficiente",
+      "c": "Válvulas de tres vías",
+      "d": "Placas de identificación",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué requisitos debe cumplir la tubería de conexión a las válvulas de seguridad?",
+      "a": "Debe ser recta, corta y de diámetro suficiente",
+      "b": "Debe tener filtros para evitar contaminación",
+      "c": "Debe ser larga y con múltiples curvas para amortiguar el flujo",
+      "d": "Debe incluir válvulas de cierre adicionales",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Se pueden instalar válvulas de cierre entre el tanque y las válvulas de seguridad?",
+      "a": "Sí, todas las que sean necesarias",
+      "b": "Solo válvulas de globo",
+      "c": "Sí, siempre que estén abiertas",
+      "d": "No, excepto la válvula de tres vías del sistema de seguridad",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué tipo de válvulas son las válvulas de seguridad del tanque de CO2?",
+      "a": "Válvulas de cierre manual",
+      "b": "Válvulas electrónicas programables",
+      "c": "Válvulas de compuerta operadas por aire comprimido",
+      "d": "Válvulas de resorte que abren automáticamente al alcanzar la presión de calibración",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué sucede cuando la presión del tanque alcanza el valor de calibración de la válvula de seguridad?",
+      "a": "Se activa una alarma sonora solamente",
+      "b": "Se corta el suministro al cliente automáticamente",
+      "c": "El condensador se enciende a máxima potencia",
+      "d": "La válvula se abre automáticamente liberando gas a la atmósfera",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Quién puede recalibrar las válvulas de seguridad?",
+      "a": "Personal certificado de forma periódica",
+      "b": "Cualquier operario con herramientas adecuadas",
+      "c": "El conductor durante la recarga",
+      "d": "El cliente en sus instalaciones",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué debe hacer un conductor respecto a las válvulas de seguridad?",
+      "a": "Probarlas en cada recarga para verificar su funcionamiento",
+      "b": "Ajustarlas si la presión sube demasiado",
+      "c": "Lubricarlas periódicamente",
+      "d": "NUNCA ajustar, probar ni manipular estas válvulas",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué información contiene la placa de identificación de cada válvula de seguridad?",
+      "a": "Datos críticos que deben ser verificados periódicamente",
+      "b": "Solo el nombre del fabricante",
+      "c": "Instrucciones de operación para el conductor",
+      "d": "El número telefónico de emergencias",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué son los discos de ruptura en el sistema de seguridad?",
+      "a": "Dispositivos pasivos que se rompen a una presión predeterminada",
+      "b": "Válvulas de resorte de alta presión",
+      "c": "Sensores electrónicos de sobrepresión",
+      "d": "Filtros de seguridad del sistema de venteo",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuándo actúan los discos de ruptura?",
+      "a": "Solo si las válvulas de seguridad fallan",
+      "b": "Cada vez que el condensador se apaga",
+      "c": "Como primera línea de defensa ante cualquier aumento de presión",
+      "d": "De forma programada cada 6 meses",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué característica tienen los discos de ruptura respecto a su reutilización?",
+      "a": "Son de un solo uso y deben reemplazarse después de romperse",
+      "b": "Se recalibran y reutilizan indefinidamente",
+      "c": "Pueden reutilizarse hasta 3 veces",
+      "d": "Se regeneran automáticamente al bajar la presión",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué efectos produce la ruptura de un disco de seguridad?",
+      "a": "Un silbido suave y una pequeña fuga controlada",
+      "b": "Una alarma electrónica silenciosa",
+      "c": "Un corte automático de suministro sin efectos visibles",
+      "d": "Un ruido muy fuerte y una nube visible de CO2, con liberación masiva e instantánea de gas",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué indica la activación de un disco de ruptura sobre el sistema?",
+      "a": "Funcionamiento normal del sistema de seguridad",
+      "b": "Que se requiere una recarga de producto",
+      "c": "Una situación extrema donde las válvulas de seguridad no pudieron evacuar suficiente gas (falla múltiple)",
+      "d": "Que el disco estaba mal instalado",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el primer paso del protocolo de sobrepresión?",
+      "a": "Manipular las válvulas para reducir la presión",
+      "b": "Llamar al supervisor",
+      "c": "DETECTAR: manómetro >320 PSIG y alarma audible",
+      "d": "Evacuar a 50 metros",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿A qué distancia mínima debe alejarse el personal al detectar sobrepresión?",
+      "a": "5 metros",
+      "b": "10 metros",
+      "c": "25 metros, en dirección contraria al viento",
+      "d": "50 metros en cualquier dirección",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Al notificar una sobrepresión, ¿qué información debe comunicar el conductor?",
+      "a": "Solo su nombre y ubicación",
+      "b": "Marca y modelo del tanque",
+      "c": "Nombre del cliente y número de orden",
+      "d": "Presión, ubicación y condición del tanque",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿A quién se debe notificar en caso de sobrepresión?",
+      "a": "Solo al cliente",
+      "b": "A la policía local",
+      "c": "Solo a los bomberos",
+      "d": "Al supervisor y al centro de emergencias de Linde",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "En el paso 'NO TOCAR' del protocolo de sobrepresión, ¿qué acciones están prohibidas?",
+      "a": "Solo está prohibido abrir válvulas",
+      "b": "Todas las acciones están permitidas si se usa EPP",
+      "c": "Solo está prohibido desconectar la energía",
+      "d": "No manipular válvulas, no acercarse al área de venteo, no intentar reparar",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Por qué se debe esperar y no intervenir durante una sobrepresión?",
+      "a": "Porque las válvulas de seguridad están diseñadas para actuar solas y dejar que el sistema se proteja",
+      "b": "Porque no hay herramientas disponibles",
+      "c": "Porque el supervisor viene en camino",
+      "d": "Porque la presión baja sola por enfriamiento",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué se debe hacer después de que se resuelve un evento de sobrepresión?",
+      "a": "Olvidar el incidente y continuar trabajando",
+      "b": "Rellenar el tanque inmediatamente",
+      "c": "Ajustar las válvulas de seguridad para que no vuelva a ocurrir",
+      "d": "Documentar y registrar todo en detalle",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "En caso de venteo masivo o ruptura de disco, ¿a qué distancia mínima se debe evacuar?",
+      "a": "10 metros",
+      "b": "25 metros",
+      "c": "50 metros",
+      "d": "100 metros",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿A quién se debe llamar en caso de venteo masivo?",
+      "a": "Servicios de emergencia (bomberos, ambulancia) y Linde",
+      "b": "Solo al supervisor de Linde",
+      "c": "Solo al cliente",
+      "d": "A la compañía de seguros",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuándo es seguro cortar el suministro eléctrico durante un venteo masivo?",
+      "a": "Siempre, sin importar las condiciones",
+      "b": "Nunca, es demasiado peligroso",
+      "c": "Solo si se puede hacer de forma segura",
+      "d": "Solo si lo ordena el bombero",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué peligros presenta un venteo masivo de CO2?",
+      "a": "Asfixia (CO2 desplaza oxígeno), quemaduras criogénicas (gas a -78°C), ruido extremo y visibilidad reducida",
+      "b": "Solo ruido excesivo",
+      "c": "Solo pérdida de producto",
+      "d": "Riesgo de explosión e incendio",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Por qué el CO2 liberado puede causar quemaduras criogénicas?",
+      "a": "Porque está a temperatura ambiente",
+      "b": "Porque el gas se libera a -78°C",
+      "c": "Porque contiene ácidos",
+      "d": "Porque genera chispas",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué genera la nube blanca visible durante un venteo masivo?",
+      "a": "Vapor de agua condensado por el frío extremo del CO2",
+      "b": "Humo del motor del condensador",
+      "c": "Polvo del ambiente",
+      "d": "Gas tóxico visible",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Debe un conductor intentar detener o controlar un venteo masivo?",
+      "a": "Sí, cerrando la válvula principal",
+      "b": "Sí, usando un extintor de CO2",
+      "c": "No, nunca debe intentar detener, cerrar o controlar el venteo",
+      "d": "Sí, si tiene EPP adecuado",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el primer principio del sistema de seguridad?",
+      "a": "Probar las válvulas de seguridad en cada visita",
+      "b": "No tocar las válvulas de seguridad porque son automáticas por diseño",
+      "c": "Ajustar la presión de calibración según la temperatura",
+      "d": "Lubricar los resortes de las válvulas mensualmente",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué debe verificar periódicamente el conductor respecto a las válvulas de seguridad?",
+      "a": "Que los resortes estén bien lubricados",
+      "b": "Que abran y cierren correctamente",
+      "c": "Las placas de identificación y calibraciones",
+      "d": "La temperatura del gas de salida",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿A partir de qué presión en el manómetro, con tendencia al alza, se debe evacuar?",
+      "a": "220 PSIG",
+      "b": "270 PSIG",
+      "c": "300 PSIG",
+      "d": ">320 PSIG en aumento",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué significa 'mantener la línea de seguridad despejada'?",
+      "a": "Mantener limpio el piso alrededor del tanque",
+      "b": "Que nada obstruya la conexión entre el tanque y las válvulas de seguridad",
+      "c": "Mantener libre el acceso vehicular",
+      "d": "Que las luces de emergencia estén encendidas",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Un conductor llega a un cliente y nota que el manómetro marca 330 PSIG y sigue subiendo. ¿Qué debe hacer primero?",
+      "a": "Intentar abrir las válvulas de seguridad manualmente",
+      "b": "Conectar la manguera para descargar producto",
+      "c": "Alejarse inmediatamente contra la dirección del viento, mínimo 25 metros",
+      "d": "Verificar el condensador",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué no deben instalarse filtros en la línea entre el tanque y las válvulas de seguridad?",
+      "a": "Porque los filtros son muy costosos",
+      "b": "Porque podrían obstruirse y bloquear el flujo de gas hacia las válvulas de seguridad",
+      "c": "Porque el CO2 no necesita filtración",
+      "d": "Porque los filtros reducen la vida útil del tanque",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué función tiene la válvula de tres vías en el sistema de seguridad?",
+      "a": "Regular la temperatura del CO2",
+      "b": "Permitir el flujo adecuado de gas para que las válvulas de seguridad puedan evacuar",
+      "c": "Controlar la velocidad de carga del tanque",
+      "d": "Medir la presión del sistema",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Si un conductor encuentra una válvula de seguridad con la placa de identificación ilegible, ¿qué debe hacer?",
+      "a": "Ignorar la placa ya que no es importante",
+      "b": "Intentar leerla con lupa",
+      "c": "Reportarlo para que sea verificada por personal calificado",
+      "d": "Reemplazar la válvula él mismo",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué las válvulas de seguridad se consideran automáticas?",
+      "a": "Porque tienen un motor eléctrico que las acciona",
+      "b": "Porque el presostato las controla electrónicamente",
+      "c": "Porque abren por la fuerza del resorte cuando la presión alcanza su valor de calibración",
+      "d": "Porque un operador remoto las activa",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué ocurre si se obstruye la conexión entre el tanque y las válvulas de seguridad?",
+      "a": "El condensador compensa automáticamente",
+      "b": "Las válvulas de seguridad no podrán evacuar el gas en caso de sobrepresión, poniendo en riesgo el sistema",
+      "c": "La presión se estabiliza sola",
+      "d": "El disco de ruptura actúa de inmediato",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Un conductor escucha un ruido extremadamente fuerte y ve una nube blanca masiva saliendo del tanque. ¿Qué ha ocurrido probablemente?",
+      "a": "Se abrió una válvula de seguridad normalmente",
+      "b": "El condensador se encendió a máxima potencia",
+      "c": "Se rompió un disco de ruptura",
+      "d": "Se desconectó la manguera de carga",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué se dice que el disco de ruptura es un dispositivo 'pasivo'?",
+      "a": "Porque requiere activación manual",
+      "b": "Porque no tiene partes móviles, resortes ni mecanismos; simplemente se rompe a una presión predeterminada",
+      "c": "Porque solo funciona con electricidad",
+      "d": "Porque necesita calibración diaria",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia principal entre una válvula de seguridad y un disco de ruptura?",
+      "a": "La válvula de seguridad es más ruidosa",
+      "b": "La válvula puede abrir y cerrar múltiples veces; el disco es de un solo uso",
+      "c": "El disco de ruptura actúa antes que la válvula",
+      "d": "No hay diferencia significativa",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuántas líneas de defensa tiene el sistema contra sobrepresión?",
+      "a": "Una: las válvulas de seguridad",
+      "b": "Dos: válvulas de seguridad y discos de ruptura",
+      "c": "Tres: válvula de transferencia, válvulas de seguridad y discos de ruptura",
+      "d": "Cuatro: manómetro, alarma, válvulas y discos",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿En qué dirección debe alejarse el personal durante una evacuación por sobrepresión?",
+      "a": "En la dirección del viento",
+      "b": "Contra la dirección del viento",
+      "c": "Perpendicular al viento",
+      "d": "No importa la dirección",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué peligro específico representa el CO2 durante un venteo?",
+      "a": "Es inflamable y puede explotar",
+      "b": "Desplaza el oxígeno y puede causar asfixia",
+      "c": "Es corrosivo y daña la piel al contacto",
+      "d": "Genera electricidad estática",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Un conductor nota que la conexión entre el tanque y las válvulas de seguridad tiene un codo instalado. ¿Qué debe hacer?",
+      "a": "Nada, es una instalación estándar",
+      "b": "Reportar la anomalía ya que no deben existir codos en esa conexión",
+      "c": "Retirar el codo él mismo",
+      "d": "Agregar un filtro adicional",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué debe documentar el conductor después de un evento de sobrepresión?",
+      "a": "Solo la hora del evento",
+      "b": "Todo en detalle: presiones, acciones tomadas, tiempos, condiciones",
+      "c": "Solo el nombre del cliente",
+      "d": "No es necesario documentar",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Por qué es importante que la tubería de seguridad sea corta y recta?",
+      "a": "Para ahorrar material de instalación",
+      "b": "Para garantizar el flujo máximo de gas hacia las válvulas de seguridad sin restricciones",
+      "c": "Para facilitar la limpieza",
+      "d": "Para mejorar la estética de la instalación",
+      "correcta": "b"
+    }
+  ],
+  "clase_10": [
+    {
+      "pregunta": "¿Cuál es la función principal del indicador de contenido en un tanque de CO2?",
+      "a": "Saber cuánto CO2 hay en el tanque en todo momento",
+      "b": "Medir la presión del tanque",
+      "c": "Controlar la temperatura del producto",
+      "d": "Regular el flujo de gas al cliente",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué puede determinar el indicador de contenido?",
+      "a": "Solo el peso total del tanque",
+      "b": "La temperatura del CO2",
+      "c": "Solo la presión interna",
+      "d": "Si el tanque necesita recarga, si hay fuga, o si el consumo del cliente es normal",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cómo funciona el sistema de medición de contenido?",
+      "a": "Es una balanza electrónica que mide el peso total del tanque",
+      "b": "Con sensores ultrasónicos en la parte superior",
+      "c": "Mediante un flotador interno que mide el nivel de líquido",
+      "d": "Con radar que mide la distancia al líquido",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para calcular el contenido de CO2?",
+      "a": "Contenido = Peso total + Tara",
+      "b": "Contenido = Peso total ÷ Tara",
+      "c": "Contenido = Presión × Volumen",
+      "d": "Contenido = Peso total - Tara",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuántas celdas de carga tiene el sistema de medición y dónde están ubicadas?",
+      "a": "Una celda en la parte superior del tanque",
+      "b": "Tres celdas distribuidas en el lateral",
+      "c": "Cuatro celdas, una en cada esquina",
+      "d": "Dos celdas de carga en la base del tanque",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué es la tara en el sistema de medición de contenido?",
+      "a": "El peso del tanque vacío, valor fijo programado en el controlador durante la instalación",
+      "b": "La presión máxima de trabajo",
+      "c": "El peso del CO2 líquido",
+      "d": "El peso de las celdas de carga",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué información muestra el controlador del indicador de contenido?",
+      "a": "Porcentaje de contenido, kilogramos de producto y toneladas en tanques grandes",
+      "b": "Solo la presión en PSIG",
+      "c": "Solo la temperatura del CO2",
+      "d": "Solo el peso total incluyendo la tara",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuáles son los tres componentes del sistema de medición?",
+      "a": "Manómetro, termómetro y presostato",
+      "b": "Flotador, tubo y escala",
+      "c": "Sensor, transmisor y actuador",
+      "d": "Celdas de carga, controlador y display",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cómo interactúan los componentes del sistema de medición?",
+      "a": "Las celdas soportan el peso, generan señal eléctrica, el controlador suma señales, resta la tara y muestra el resultado",
+      "b": "El display envía señales a las celdas de carga",
+      "c": "El controlador mide directamente el peso sin celdas",
+      "d": "Las celdas miden la presión y la convierten en peso",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué tipo de señal generan las celdas de carga?",
+      "a": "Señal eléctrica proporcional al peso",
+      "b": "Señal óptica",
+      "c": "Señal de radio frecuencia",
+      "d": "Señal acústica",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Después de una recarga, ¿cómo se valida la lectura del indicador?",
+      "a": "Comparándola con el recibo de carga (el indicador debe aproximarse a la cantidad cargada)",
+      "b": "Comparándola con la presión del manómetro",
+      "c": "Verificando la temperatura del producto",
+      "d": "Golpeando el tanque para escuchar el nivel",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué indica un consumo regular del cliente en el indicador?",
+      "a": "Lecturas erráticas y variables",
+      "b": "Aumentos periódicos sin recarga",
+      "c": "Que el indicador se mantiene siempre en el mismo valor",
+      "d": "Una disminución predecible y constante del nivel",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Si el indicador muestra un cambio abrupto en el nivel, ¿qué puede significar?",
+      "a": "Consumo normal del cliente",
+      "b": "Que el sistema funciona correctamente",
+      "c": "Que se necesita calibrar el manómetro",
+      "d": "Un problema como una fuga o mal funcionamiento del sistema",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cómo se puede usar la presión para validar el indicador de contenido?",
+      "a": "No hay relación entre presión y contenido",
+      "b": "La presión y el contenido siempre son iguales",
+      "c": "Mayor contenido siempre significa mayor presión",
+      "d": "Un tanque casi vacío tiene presión baja; indicador alto + presión baja = incoherencia",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué método de validación usa el historial de consumo?",
+      "a": "Verificar que el consumo entre visitas sea lógico según el patrón del cliente",
+      "b": "Comparar con otros tanques del mismo cliente",
+      "c": "Revisar la fecha de fabricación del tanque",
+      "d": "Medir la presión atmosférica local",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es la tolerancia aceptable entre el indicador y el valor esperado?",
+      "a": "Hasta 5%",
+      "b": "Hasta 3%",
+      "c": "Hasta 1%",
+      "d": "Hasta 10%",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué se debe hacer si la diferencia entre el indicador y el valor esperado supera el 5%?",
+      "a": "El sistema de medición necesita revisión",
+      "b": "Ignorar la diferencia, es normal",
+      "c": "Recalibrar las válvulas de seguridad",
+      "d": "Cambiar el manómetro",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué situación puede causar que el nivel real no coincida con el nivel indicado?",
+      "a": "Que el tanque esté lleno",
+      "b": "Que la temperatura sea constante",
+      "c": "Que el manómetro esté funcionando correctamente",
+      "d": "Que haya objetos sobre la estructura del tanque, acumulación de agua, nieve o hielo en la base",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué buena práctica debe seguirse respecto al área de las celdas de carga?",
+      "a": "Colocar herramientas de repuesto sobre el tanque para fácil acceso",
+      "b": "Pintar las celdas para evitar la corrosión",
+      "c": "Cubrir las celdas con plástico para protegerlas",
+      "d": "Mantener el área libre de objetos sobre la estructura y sin acumulación de agua, nieve o hielo",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué NO se debe hacer sobre el tanque o su base?",
+      "a": "Realizar inspecciones visuales",
+      "b": "Leer el manómetro",
+      "c": "Verificar las placas de identificación",
+      "d": "Apoyar herramientas o mangueras sobre el tanque",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué debe reportar un conductor si la lectura del indicador no coincide con el consumo esperado?",
+      "a": "No es necesario reportar nada",
+      "b": "Ajustar la tara por su cuenta",
+      "c": "Solo reportar si la diferencia es mayor al 50%",
+      "d": "La anomalía debe ser reportada",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué tipo de lecturas anómalas deben ser reportadas inmediatamente?",
+      "a": "Valores cero, valores fijos que no cambian, o valores erráticos",
+      "b": "Lecturas que coinciden con el recibo de carga",
+      "c": "Disminuciones graduales consistentes",
+      "d": "Lecturas dentro del 5% de tolerancia",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es la primera clave del indicador de contenido?",
+      "a": "Calibrar las celdas de carga en cada visita",
+      "b": "Ajustar la tara según la temperatura",
+      "c": "Siempre confiar ciegamente en la lectura",
+      "d": "Entender cómo funciona: es una balanza que mide peso, resta tara y muestra contenido",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Por qué cualquier objeto o sustancia que afecte el peso genera una lectura incorrecta?",
+      "a": "Porque el sistema mide el peso total y cualquier peso adicional se interpreta como más CO2",
+      "b": "Porque las celdas de carga miden presión, no peso",
+      "c": "Porque los objetos bloquean la señal eléctrica",
+      "d": "Porque alteran la programación del controlador",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué se debe hacer siempre después de cargar un tanque?",
+      "a": "Comparar la lectura del indicador con el recibo de carga",
+      "b": "Apagar el indicador de contenido",
+      "c": "Resetear el controlador",
+      "d": "Reprogramar la tara",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Si después de una recarga el indicador muestra 2000 kg pero el recibo dice 3000 kg, ¿qué indica?",
+      "a": "Funcionamiento normal del sistema",
+      "b": "Que el cliente consumió 1000 kg durante la carga",
+      "c": "Una diferencia mayor al 5%, lo que indica un problema en el sistema de medición",
+      "d": "Que el recibo es incorrecto",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué puede causar acumulación de hielo en la base del tanque?",
+      "a": "Temperaturas altas",
+      "b": "Condiciones climáticas adversas que agregan peso extra a la medición",
+      "c": "Exceso de CO2 en el tanque",
+      "d": "Falla del condensador",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Por qué no se debe depender solo del indicador de contenido?",
+      "a": "Porque siempre es inexacto",
+      "b": "Porque se debe usar también la presión del manómetro y el historial de consumo como verificación cruzada",
+      "c": "Porque solo funciona cuando el tanque está lleno",
+      "d": "Porque las celdas de carga fallan constantemente",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuántas fuentes de información se recomienda usar para verificar el contenido?",
+      "a": "Una es suficiente",
+      "b": "Al menos dos fuentes siempre son mejores",
+      "c": "Tres fuentes obligatorias",
+      "d": "Depende del tipo de cliente",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Un conductor llega a un cliente y el indicador marca 80% pero la última recarga fue hace un mes y el cliente consume normalmente 20% por semana. ¿Qué debería sospechar?",
+      "a": "El cliente redujo su consumo",
+      "b": "El indicador puede estar dando una lectura incorrecta (debería estar cerca de 0%)",
+      "c": "El sistema funciona perfectamente",
+      "d": "El tanque se recargó solo",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué acción debe tomar un conductor si encuentra objetos apoyados sobre el tanque?",
+      "a": "Dejarlos ahí si no son pesados",
+      "b": "Retirarlos ya que afectan la medición del indicador de contenido",
+      "c": "Agregarlos a la tara",
+      "d": "Documentarlos pero no moverlos",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cómo miden el peso las celdas de carga?",
+      "a": "De forma discontinua, una vez por hora",
+      "b": "Solo durante la recarga",
+      "c": "De forma continua e ininterrumpida",
+      "d": "Solo cuando el conductor activa el sistema",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué ocurre si una celda de carga falla?",
+      "a": "El sistema sigue midiendo con precisión normal",
+      "b": "La lectura del indicador será incorrecta y debe reportarse",
+      "c": "El tanque deja de funcionar automáticamente",
+      "d": "La otra celda duplica su capacidad",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuándo se programa la tara en el controlador?",
+      "a": "En cada recarga",
+      "b": "Cada mes",
+      "c": "Durante la instalación del tanque",
+      "d": "Cuando el conductor lo solicita",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿La tara cambia con el tiempo?",
+      "a": "Sí, cambia con cada recarga",
+      "b": "Sí, cambia con la temperatura",
+      "c": "No, es un valor fijo programado durante la instalación",
+      "d": "Sí, cambia según la presión",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué indica una lectura del indicador que permanece fija sin cambios durante varios días?",
+      "a": "Que el cliente no está consumiendo CO2",
+      "b": "Funcionamiento normal",
+      "c": "Posible falla del sistema de medición que debe ser reportada",
+      "d": "Que el tanque está completamente lleno",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué indica una lectura errática que sube y baja sin patrón lógico?",
+      "a": "Consumo variable del cliente",
+      "b": "Condiciones climáticas cambiantes",
+      "c": "Posible falla en las celdas de carga o el controlador",
+      "d": "Que el tanque tiene dos compartimentos",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Si un tanque indica 30% de contenido pero la presión es muy alta, ¿qué podría estar ocurriendo?",
+      "a": "Funcionamiento completamente normal",
+      "b": "Es una incoherencia que sugiere un problema con el indicador o con el sistema",
+      "c": "El CO2 se está evaporando normalmente",
+      "d": "El condensador está funcionando demasiado bien",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué relación existe entre un tanque casi vacío y la presión?",
+      "a": "Tanque casi vacío = presión alta",
+      "b": "No hay relación",
+      "c": "Tanque casi vacío = presión baja",
+      "d": "Tanque casi vacío = presión constante",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la tercera clave del indicador de contenido?",
+      "a": "Calibrar las celdas semanalmente",
+      "b": "Mantener la base limpia: nada sobre el tanque ni en la base",
+      "c": "Ignorar lecturas menores al 10%",
+      "d": "Reprogramar la tara cada mes",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué efecto tiene el agua acumulada en la base del tanque sobre la lectura?",
+      "a": "Ningún efecto",
+      "b": "Reduce la lectura del indicador",
+      "c": "Aumenta falsamente la lectura porque agrega peso adicional",
+      "d": "Causa un cortocircuito en las celdas",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Un conductor observa que el indicador marca exactamente 0 kg con el tanque visiblemente lleno. ¿Cuál es la acción correcta?",
+      "a": "Recargar el tanque de todos modos",
+      "b": "Reportar la anomalía como una falla del sistema de medición",
+      "c": "Resetear el controlador",
+      "d": "Cambiar las baterías del display",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es más confiable: una sola fuente de medición o la verificación cruzada?",
+      "a": "Una sola fuente es más confiable por simplicidad",
+      "b": "Ambas son igualmente confiables",
+      "c": "La verificación cruzada usando indicador, manómetro e historial de consumo",
+      "d": "Depende del tipo de tanque",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Dónde están ubicadas físicamente las celdas de carga?",
+      "a": "En la parte superior del tanque",
+      "b": "En el panel de válvulas",
+      "c": "En la base del tanque",
+      "d": "Dentro del tanque, sumergidas en CO2",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué sucede si se acumula nieve sobre el tanque durante el invierno?",
+      "a": "El tanque se enfría y mejora la medición",
+      "b": "El peso de la nieve altera la lectura del indicador, mostrando más contenido del real",
+      "c": "No tiene ningún efecto en la medición",
+      "d": "El CO2 se congela y deja de fluir",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la quinta clave del indicador de contenido?",
+      "a": "Calibrar las celdas cada semana",
+      "b": "No depender solo del indicador; usar presión del manómetro e historial de consumo como verificación cruzada",
+      "c": "Confiar solo en el recibo de carga",
+      "d": "Ajustar la tara según la estación del año",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué información proporciona el historial de consumo para la validación?",
+      "a": "La fecha de fabricación del tanque",
+      "b": "El consumo entre visitas debe ser lógico según el patrón habitual del cliente",
+      "c": "La presión máxima permitida",
+      "d": "El peso de la tara original",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué unidades puede mostrar el display del controlador según el tamaño del tanque?",
+      "a": "Solo litros",
+      "b": "Solo porcentaje",
+      "c": "Porcentaje, kilogramos y toneladas en tanques grandes",
+      "d": "Solo PSI y bar",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Puede el conductor reprogramar la tara del controlador?",
+      "a": "Sí, en cada visita",
+      "b": "Sí, si tiene el manual de instrucciones",
+      "c": "No, la tara es un valor fijo establecido durante la instalación por personal técnico",
+      "d": "Sí, si el indicador no coincide con el recibo",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Si un conductor apoya su manguera pesada sobre el tanque durante la descarga, ¿qué efecto tiene?",
+      "a": "Ningún efecto en las mediciones",
+      "b": "El indicador mostrará más contenido del real debido al peso adicional",
+      "c": "El indicador mostrará menos contenido",
+      "d": "La manguera podría dañar la pintura únicamente",
+      "correcta": "b"
+    }
+  ],
+  "clase_11": [
+    {
+      "pregunta": "¿Por qué la ubicación del tanque es fundamental para la seguridad de la operación?",
+      "a": "Solo por razones estéticas",
+      "b": "Únicamente para facilitar la lectura del manómetro",
+      "c": "Solo por requerimientos municipales",
+      "d": "Porque una mala instalación genera riesgos de asfixia, dificultades de mantenimiento, problemas de acceso y condiciones peligrosas en emergencias",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuáles son los problemas principales de una instalación deficiente?",
+      "a": "Solo problemas estéticos",
+      "b": "Únicamente problemas de medición",
+      "c": "Solo aumento de costos",
+      "d": "Riesgos de asfixia, dificultades de mantenimiento, problemas de acceso vehicular y condiciones peligrosas en emergencias",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Por qué están prohibidos los sótanos y áreas bajo nivel de suelo para instalar tanques de CO2?",
+      "a": "Porque no hay suficiente espacio",
+      "b": "Por motivos de estética",
+      "c": "Porque el CO2 es 1.5 veces más pesado que el aire y se acumula en zonas bajas",
+      "d": "Porque la temperatura es muy alta",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué tipo de espacios están prohibidos para la instalación de tanques de CO2?",
+      "a": "Sótanos, áreas bajo nivel, espacios cerrados sin ventilación forzada, zonas de tráfico vehicular intenso sin protección y zonas inundables",
+      "b": "Espacios abiertos con buena ventilación",
+      "c": "Patios al aire libre",
+      "d": "Terrazas con buena circulación de aire",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es la distancia ideal máxima de manguera entre el camión y el tanque?",
+      "a": "5 metros",
+      "b": "10 metros",
+      "c": "Idealmente menor a 15 metros",
+      "d": "30 metros",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué tipo de superficie debe tener la plataforma donde se instala el tanque?",
+      "a": "Tierra compactada",
+      "b": "Asfalto flexible",
+      "c": "Concreto nivelado sin grietas, con cimientos adecuados para las celdas de carga",
+      "d": "Grava compactada",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué peso debe soportar el piso de la instalación?",
+      "a": "Solo el peso del tanque vacío",
+      "b": "Solo el peso del tanque lleno",
+      "c": "El peso del tanque lleno más el peso del camión durante la carga",
+      "d": "Solo el peso de las personas que trabajan",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la separación mínima requerida entre el tanque y cada pared?",
+      "a": "0.6 metros mínimo",
+      "b": "0.3 metros",
+      "c": "1.5 metros",
+      "d": "3 metros",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué debe ser accesible para el operador en todo momento?",
+      "a": "Todas las válvulas y el panel eléctrico",
+      "b": "Solo el manómetro",
+      "c": "Solo la válvula principal",
+      "d": "Solo el indicador de contenido",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué tipo de iluminación se requiere en la zona del tanque?",
+      "a": "No se requiere iluminación especial",
+      "b": "Iluminación infrarroja",
+      "c": "Solo luz natural",
+      "d": "Iluminación adecuada para operaciones nocturnas",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es el suministro eléctrico requerido para el panel del tanque?",
+      "a": "Monofásico 220V",
+      "b": "Corriente continua 24V",
+      "c": "Bifásico 110V",
+      "d": "Trifásico 3x380V 50Hz",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué protecciones debe tener el panel eléctrico?",
+      "a": "Solo un fusible principal",
+      "b": "Protección contra robo únicamente",
+      "c": "Solo protección contra lluvia",
+      "d": "Protección contra intemperie y puesta a tierra adecuada",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué tipo de protección física debe tener la instalación del tanque?",
+      "a": "Bolardos o barreras contra impacto vehicular, cerco perimetral si hay acceso público, señalización de peligro visible",
+      "b": "Solo una cadena alrededor",
+      "c": "Solo cinta de advertencia",
+      "d": "Solo un cartel de 'no pasar'",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Por qué se recomienda sombra o techo sobre el tanque?",
+      "a": "Para mejorar la estética",
+      "b": "Para esconder el tanque",
+      "c": "Solo para proteger la pintura",
+      "d": "Para evitar la exposición prolongada al sol que aumenta la presión interna",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué debe garantizarse respecto al drenaje en la zona del tanque?",
+      "a": "Que no haya agua cerca",
+      "b": "No es relevante",
+      "c": "Que el agua fluya hacia las celdas de carga",
+      "d": "Drenaje adecuado para evitar acumulación de agua",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué tipo de ventilación requiere el área del tanque?",
+      "a": "No requiere ventilación especial",
+      "b": "Ventilación sellada con filtros",
+      "c": "Solo ventilación mecánica",
+      "d": "Área abierta o ventilación natural suficiente, sin paredes que bloqueen la dispersión de CO2 en caso de fuga",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuántas veces más pesado es el CO2 comparado con el aire?",
+      "a": "1.5 veces más pesado",
+      "b": "Igual peso que el aire",
+      "c": "3 veces más pesado",
+      "d": "0.5 veces (más liviano)",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Dónde se acumula el CO2 en caso de fuga?",
+      "a": "En las zonas altas",
+      "b": "Se dispersa uniformemente",
+      "c": "En las zonas bajas por ser más pesado que el aire",
+      "d": "Solo alrededor del tanque",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué regla aplica para tanques dentro de edificios cerrados?",
+      "a": "Pueden instalarse libremente",
+      "b": "Está permitido si el edificio tiene más de 3 pisos",
+      "c": "Solo necesitan una ventana abierta",
+      "d": "No deben instalarse sin ventilación forzada certificada",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué se requiere en áreas semicerradas con tanques de CO2?",
+      "a": "Detectores de CO2 con alarma",
+      "b": "Solo buena iluminación",
+      "c": "Solo extintores de incendio",
+      "d": "Solo señalización básica",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Antes de operar en un espacio semicerrado, ¿qué pasos debe seguir el conductor?",
+      "a": "Entrar directamente y trabajar rápido",
+      "b": "Solo ponerse la máscara antigás",
+      "c": "Verificar ventilación, leer detector de CO2, trabajar con compañero e identificar ruta de escape",
+      "d": "Avisar al cliente y entrar solo",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el límite de concentración de CO2 en ppm para poder ingresar a un área?",
+      "a": "Menos de 1000 ppm",
+      "b": "Menos de 10000 ppm",
+      "c": "Menos de 5000 ppm",
+      "d": "Menos de 50000 ppm",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué debe hacer un conductor si el detector de CO2 marca más de 5000 ppm?",
+      "a": "Entrar con precaución",
+      "b": "Entrar por un máximo de 5 minutos",
+      "c": "NO ENTRAR al espacio",
+      "d": "Ventilarlo con un ventilador portátil y entrar",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Se debe trabajar solo en un espacio semicerrado con tanque de CO2?",
+      "a": "Sí, si el trabajo es rápido",
+      "b": "Sí, si se tiene detector personal",
+      "c": "Nunca, siempre trabajar con un compañero",
+      "d": "Solo si el supervisor lo autoriza",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Dónde deben ubicarse los detectores de CO2?",
+      "a": "A nivel del piso, porque el CO2 se acumula en zonas bajas",
+      "b": "A nivel del techo",
+      "c": "A la altura de la cintura",
+      "d": "En el exterior del edificio",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿A qué concentración debe sonar la alarma del detector de CO2?",
+      "a": "A 1000 ppm (0.1%)",
+      "b": "A 50000 ppm (5%)",
+      "c": "A 10000 ppm (1%)",
+      "d": "A 5000 ppm (0.5%)",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué componentes del tanque deben ser accesibles para mantenimiento?",
+      "a": "Solo las válvulas principales",
+      "b": "Solo el panel eléctrico",
+      "c": "Solo el manómetro",
+      "d": "Panel de válvulas, panel eléctrico, manómetro, válvulas de seguridad, condensador, celdas de carga y placa de identificación",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cómo debe estar ubicado el manómetro para una lectura correcta?",
+      "a": "Frontal, a nivel de los ojos",
+      "b": "En la parte trasera del tanque",
+      "c": "En la parte superior del tanque",
+      "d": "A nivel del piso",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Si el acceso a un componente del tanque está bloqueado, ¿qué debe hacer el conductor?",
+      "a": "Forzar el acceso con herramientas",
+      "b": "Ignorar el componente hasta la próxima visita",
+      "c": "Reportar la situación, no forzar el acceso",
+      "d": "Pedir al cliente que mueva los obstáculos",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué debe incluir el Plan de Control de Desastres (PCD)?",
+      "a": "Solo números de teléfono de emergencia",
+      "b": "Solo un extintor y un botiquín",
+      "c": "Rutas de evacuación señalizadas, puntos de encuentro, números de emergencia actualizados, responsables de evacuación, procedimientos de corte de suministro y simulacros periódicos",
+      "d": "Solo la ubicación del tanque",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿La distancia mínima de 15 metros a agua potable es una sugerencia o un requisito regulatorio?",
+      "a": "Es solo una sugerencia",
+      "b": "Es una buena práctica opcional",
+      "c": "Es un mínimo regulatorio obligatorio",
+      "d": "Solo aplica en ciertos países",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la distancia mínima de un tanque de CO2 a fuentes de combustible?",
+      "a": "1 metro",
+      "b": "20 metros",
+      "c": "10 metros",
+      "d": "3 metros",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es la separación mínima de paredes laterales?",
+      "a": "0.6 metros",
+      "b": "0.3 metros",
+      "c": "1.0 metro",
+      "d": "2.0 metros",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Por qué se necesita ventilación o detectores siempre?",
+      "a": "Porque el CO2 es inodoro e incoloro y puede acumularse sin que nadie lo note, causando asfixia",
+      "b": "Para mantener el aire fresco",
+      "c": "Para evitar olores desagradables",
+      "d": "Solo por requisito estético",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué significa que el acceso ES seguridad?",
+      "a": "Que sin acceso adecuado al tanque y sus componentes, no se pueden realizar inspecciones ni responder a emergencias",
+      "b": "Que hay cámaras de seguridad en el acceso",
+      "c": "Que la puerta debe tener cerradura",
+      "d": "Que solo personal autorizado puede entrar",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Por qué nunca se debe mover un tanque cargado?",
+      "a": "Porque puede dañar celdas de carga, conexiones y generar fugas o situaciones de riesgo",
+      "b": "Porque es difícil de mover",
+      "c": "Porque necesita permiso especial",
+      "d": "Porque la pintura se puede dañar",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué debe conocer el conductor sobre el plan de emergencias del sitio?",
+      "a": "El PCD completo: rutas de evacuación, puntos de encuentro y procedimientos de corte de suministro",
+      "b": "Solo la ubicación del extintor",
+      "c": "Solo el teléfono del supervisor",
+      "d": "Solo la dirección del hospital más cercano",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Un conductor llega a un cliente y observa que el tanque está instalado en un sótano sin ventilación. ¿Qué debe hacer?",
+      "a": "Proceder con la recarga normalmente",
+      "b": "Reportar la instalación como no conforme, ya que está prohibido instalar tanques en sótanos sin ventilación forzada certificada",
+      "c": "Abrir la puerta del sótano para ventilar",
+      "d": "Hacer la recarga rápidamente para minimizar el riesgo",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué peligro específico existe si hay paredes altas alrededor del tanque sin ventilación?",
+      "a": "Riesgo de incendio",
+      "b": "En caso de fuga, las paredes bloquean la dispersión del CO2 y este se acumula en la zona",
+      "c": "Riesgo de explosión",
+      "d": "Solo problemas de acceso",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué tipo de camino debe existir para el acceso del camión?",
+      "a": "Cualquier tipo de camino",
+      "b": "Camino pavimentado o firme con espacio para que el camión entre, maniobre y salga",
+      "c": "Solo camino de tierra",
+      "d": "Camino de un solo sentido sin espacio de maniobra",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Por qué se requiere protección contra impacto vehicular en la instalación?",
+      "a": "Para evitar robos del tanque",
+      "b": "Para proteger el tanque contra golpes de vehículos que podrían dañar las conexiones y causar fugas",
+      "c": "Solo por estética",
+      "d": "Para delimitar el área de estacionamiento",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué requisito de señalización debe cumplir la instalación?",
+      "a": "Solo un letrero con el nombre del cliente",
+      "b": "Señalización de peligro visible",
+      "c": "Solo números de emergencia",
+      "d": "No se requiere señalización",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué se necesita para operar el tanque durante la noche?",
+      "a": "Solo una linterna portátil",
+      "b": "Iluminación adecuada instalada en la zona del tanque para operaciones nocturnas",
+      "c": "No se permiten operaciones nocturnas",
+      "d": "La luz del camión es suficiente",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué función cumple la protección contra lluvia en el panel y conexiones?",
+      "a": "Solo evitar la oxidación",
+      "b": "Proteger los componentes eléctricos y conexiones contra fallas por humedad y cortocircuitos",
+      "c": "Mejorar la apariencia",
+      "d": "Evitar que se moje el operador",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Si un conductor detecta que no existe cerco perimetral y hay acceso público al tanque, ¿qué acción debe tomar?",
+      "a": "No es importante, el tanque es seguro",
+      "b": "Reportar la condición para que se instale protección adecuada",
+      "c": "Colocar conos de tráfico",
+      "d": "Hablar directamente con los vecinos",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué ocurre si la plataforma del tanque tiene grietas o no está nivelada?",
+      "a": "No afecta en nada",
+      "b": "Puede afectar la estabilidad del tanque, el funcionamiento de las celdas de carga y la seguridad general",
+      "c": "Solo afecta la estética",
+      "d": "Solo dificulta la limpieza",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Con qué frecuencia deben realizarse simulacros del PCD?",
+      "a": "Solo una vez durante la instalación",
+      "b": "De forma periódica",
+      "c": "Solo después de un incidente",
+      "d": "Nunca, solo es un documento",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué debe verificar el conductor antes de la primera entrega en un sitio semicerrado?",
+      "a": "Solo que el tanque esté vacío",
+      "b": "Que exista ventilación adecuada y detectores de CO2 instalados a nivel del piso",
+      "c": "Solo que haya luz eléctrica",
+      "d": "Que el cliente firmó la documentación",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuáles son las zonas inundables y por qué están prohibidas para tanques de CO2?",
+      "a": "Son zonas secas donde hay mucho polvo",
+      "b": "Son áreas donde el agua puede acumularse, lo cual afecta las celdas de carga, causa corrosión y daña equipos eléctricos",
+      "c": "Son zonas con mucho tráfico vehicular",
+      "d": "Son áreas con alta temperatura",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué debe identificar el conductor como parte de la seguridad al operar en un espacio semicerrado?",
+      "a": "La ubicación del extintor más cercano",
+      "b": "La ruta de escape en caso de emergencia",
+      "c": "El nombre del responsable del área",
+      "d": "La marca del detector de CO2",
+      "correcta": "b"
+    }
+  ],
+  "clase_12": [
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la Clase 12 en el programa de capacitación?",
+      "a": "Integrar los conocimientos de las 11 clases anteriores y entender cómo el sistema completo funciona como una unidad",
+      "b": "Aprender sobre un subsistema nuevo",
+      "c": "Realizar un examen final teórico",
+      "d": "Aprender sobre nuevos modelos de tanques",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuántos subsistemas principales trabajan en coordinación en un tanque de CO2?",
+      "a": "4 subsistemas",
+      "b": "6 subsistemas",
+      "c": "8 subsistemas",
+      "d": "10 subsistemas",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la base fundamental sobre la que se sustenta todo el sistema?",
+      "a": "El panel eléctrico",
+      "b": "El condensador",
+      "c": "El emplazamiento del tanque",
+      "d": "Las válvulas de seguridad",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué relación existe entre el tanque y el manómetro?",
+      "a": "El manómetro refleja la presión del tanque en tiempo real",
+      "b": "No tienen relación directa",
+      "c": "El manómetro controla la temperatura del tanque",
+      "d": "El tanque regula la lectura del manómetro",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Cómo se relacionan el manómetro y el panel eléctrico?",
+      "a": "No se relacionan entre sí",
+      "b": "El panel eléctrico calibra el manómetro",
+      "c": "El presostato lee la presión del manómetro y activa funciones a umbrales específicos (220/240/270/300/320 PSIG)",
+      "d": "El manómetro enciende el panel eléctrico",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué ocurre si el panel eléctrico no tiene energía respecto al condensador?",
+      "a": "El condensador funciona con batería de respaldo",
+      "b": "El condensador sigue funcionando normalmente",
+      "c": "Sin energía no hay condensador y la presión sube",
+      "d": "Solo se apaga la alarma",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué controla el panel eléctrico respecto al sistema de consumo?",
+      "a": "Los solenoides controlados por el presostato; sin panel no hay conmutación",
+      "b": "Solo la iluminación",
+      "c": "Solo el flujo de gas",
+      "d": "La temperatura del producto",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué efecto tiene cerrar la válvula primaria del panel de válvulas?",
+      "a": "Solo se reduce el flujo parcialmente",
+      "b": "El condensador se apaga",
+      "c": "No hay flujo de CO2 sin importar la automatización del sistema",
+      "d": "Se activan las válvulas de seguridad",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿A qué presión actúan las válvulas de seguridad como protección final?",
+      "a": "270 PSIG",
+      "b": "300 PSIG",
+      "c": "320 PSIG",
+      "d": "350 PSIG",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Para qué sirve el indicador de contenido en la planificación?",
+      "a": "Para medir la presión",
+      "b": "Para controlar la temperatura",
+      "c": "Para habilitar la planificación de recargas",
+      "d": "Para activar alarmas",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "En la cadena de falla por corte de energía, ¿cuál es la primera consecuencia?",
+      "a": "El panel se apaga y el condensador se detiene",
+      "b": "Las válvulas de seguridad se abren",
+      "c": "El tanque pierde producto inmediatamente",
+      "d": "Las celdas de carga fallan",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué sucede después de que el condensador se detiene por corte de energía?",
+      "a": "La presión sube por el calor ambiente",
+      "b": "La presión baja automáticamente",
+      "c": "El sistema cambia a batería",
+      "d": "Las válvulas se cierran",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "En el ejemplo de corte de energía, ¿por qué el cliente pierde gas?",
+      "a": "Porque los solenoides no conmutan sin energía eléctrica",
+      "b": "Porque el tanque se vacía rápidamente",
+      "c": "Porque las válvulas de seguridad liberan todo el gas",
+      "d": "Porque el manómetro deja de funcionar",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué ocurre si la presión sigue subiendo después de un corte de energía prolongado?",
+      "a": "El sistema se apaga automáticamente",
+      "b": "Nada, la presión tiene un límite natural",
+      "c": "El tanque se enfría solo",
+      "d": "Las válvulas de seguridad actúan a 350 PSIG con pérdida de producto",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "En el ejemplo de fuga en una válvula, ¿cuál es la primera consecuencia?",
+      "a": "El condensador se apaga",
+      "b": "El indicador sube",
+      "c": "Las válvulas de seguridad se abren",
+      "d": "Pérdida gradual de presión",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué sucede cuando la presión baja de 220 PSIG por una fuga?",
+      "a": "Se activa la alarma y el sistema conmuta a consumo de líquido",
+      "b": "El condensador se enciende",
+      "c": "Las válvulas de seguridad se cierran",
+      "d": "El sistema se apaga",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "Cuando el sistema conmuta a consumo de líquido por baja presión, ¿qué efecto tiene en el nivel del tanque?",
+      "a": "El nivel se mantiene estable",
+      "b": "No hay efecto en el nivel",
+      "c": "El nivel sube",
+      "d": "El nivel del tanque baja más rápido de lo normal",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué riesgo adicional existe con una fuga grande de CO2?",
+      "a": "Riesgo de incendio",
+      "b": "Riesgo de contaminación del agua",
+      "c": "Riesgo de explosión",
+      "d": "Riesgo de acumulación de CO2 y asfixia",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "En el ejemplo del condensador que no enfría, ¿cuál es la causa inicial?",
+      "a": "Pérdida de refrigerante",
+      "b": "Corte de energía eléctrica",
+      "c": "Falla de las válvulas de seguridad",
+      "d": "Fuga en el tanque",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué sucede cuando un condensador pierde refrigerante?",
+      "a": "No puede enfriar eficientemente y la presión sube lentamente",
+      "b": "Se apaga inmediatamente",
+      "c": "Enfría más de lo necesario",
+      "d": "El panel eléctrico se daña",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Por qué se sobrecalienta el motor del condensador cuando pierde refrigerante?",
+      "a": "Porque trabaja sin parar intentando enfriar sin éxito",
+      "b": "Porque no tiene ventilación",
+      "c": "Porque el refrigerante es el lubricante",
+      "d": "Porque la presión es muy baja",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué ocurre cuando la protección térmica detiene el condensador?",
+      "a": "La presión sube más rápido al no haber enfriamiento",
+      "b": "La presión se estabiliza",
+      "c": "El sistema se repara automáticamente",
+      "d": "Las válvulas de seguridad actúan de inmediato",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿A qué presión se activa la alarma de alta presión?",
+      "a": "220 PSIG",
+      "b": "270 PSIG",
+      "c": "320 PSIG",
+      "d": "350 PSIG",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el enfoque correcto según el pensamiento sistémico?",
+      "a": "Solo observar los síntomas y reportarlos",
+      "b": "Esperar a que el técnico resuelva todo",
+      "c": "Reparar lo que sea más visible",
+      "d": "No solo ver el síntoma sino trazar la causa raíz",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Si el manómetro sube, ¿qué preguntas debe hacerse el conductor?",
+      "a": "¿Funciona el condensador? ¿Está el selector en Automático? ¿Hay energía? ¿Está limpio el condensador de aire?",
+      "b": "Solo llamar al supervisor",
+      "c": "¿Cuándo fue la última recarga?",
+      "d": "¿Está el indicador de contenido funcionando?",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué debe inspeccionar el conductor en cada recarga?",
+      "a": "Solo el manómetro y las válvulas",
+      "b": "Solo el condensador",
+      "c": "Solo el nivel de contenido",
+      "d": "Los 8 subsistemas: cubierta del tanque, válvulas, panel, manómetro, condensador, seguridad, indicador y emplazamiento",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Con qué frecuencia debe realizar una inspección completa un técnico de servicio?",
+      "a": "Cada mes",
+      "b": "Cada 6 meses",
+      "c": "Anualmente",
+      "d": "Cada 5 años",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cada cuántos años se debe realizar la prueba hidrostática del tanque?",
+      "a": "Cada año",
+      "b": "Cada 3 años",
+      "c": "Cada 5 años",
+      "d": "Cada 10 años",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el primer principio del sistema integrado?",
+      "a": "Todo está conectado: 8 subsistemas forman un solo sistema",
+      "b": "Cada subsistema funciona de forma independiente",
+      "c": "Solo el condensador es importante",
+      "d": "Las válvulas de seguridad son independientes del resto",
+      "correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué significa 'trazar la causa, no solo el síntoma'?",
+      "a": "Reparar lo más visible primero",
+      "b": "Esperar a que el problema se resuelva solo",
+      "c": "Solo reportar lo que se ve",
+      "d": "Seguir la cadena causa → efecto → siguiente efecto para encontrar el origen del problema",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Por qué la inspección visual es el 'superpoder' del conductor?",
+      "a": "Porque no requiere herramientas costosas",
+      "b": "Porque es obligatoria por ley",
+      "c": "Porque es el único método disponible",
+      "d": "Porque 10 minutos de inspección pueden prevenir horas de emergencia",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuánto tiempo toma aproximadamente una inspección visual completa?",
+      "a": "1 minuto",
+      "b": "5 minutos",
+      "c": "10 minutos",
+      "d": "30 minutos",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "Según el programa de revisión, ¿quién inspecciona en cada recarga?",
+      "a": "El técnico de servicio",
+      "b": "El supervisor",
+      "c": "El conductor",
+      "d": "El cliente",
+      "correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el quinto principio del sistema integrado?",
+      "a": "Que cada subsistema funciona solo",
+      "b": "El conductor no tiene responsabilidad",
+      "c": "Solo las válvulas de seguridad importan",
+      "d": "La seguridad es el resultado de que todo funcione correctamente",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "Un conductor nota que el manómetro marca presión alta pero el condensador está funcionando. ¿Qué debería verificar a continuación?",
+      "a": "Nada, si el condensador funciona todo está bien",
+      "b": "Solo el nivel de aceite del motor",
+      "c": "Solo el indicador de contenido",
+      "d": "Si el selector está en Automático y si el condensador de aire está limpio",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué umbrales de presión maneja el presostato?",
+      "a": "100/150/200/250/300 PSIG",
+      "b": "150/200/250/300/350 PSIG",
+      "c": "200/250/300/350/400 PSIG",
+      "d": "220/240/270/300/320 PSIG",
+      "correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué ocurre si falla el panel eléctrico respecto a los solenoides?",
+      "a": "Los solenoides siguen funcionando por inercia",
+      "b": "No hay conmutación entre fases de gas y líquido",
+      "c": "Los solenoides abren completamente",
+      "d": "El condensador compensa automáticamente",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Por qué se dice que el panel de válvulas es el 'punto de control físico'?",
+      "a": "Porque controla la electricidad del sistema",
+      "b": "Porque es el punto donde se controla físicamente el flujo de CO2 y una válvula cerrada anula toda la automatización",
+      "c": "Porque tiene los instrumentos de medición",
+      "d": "Porque protege contra sobrepresión",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuáles son los 8 subsistemas que debe inspeccionar el conductor?",
+      "a": "Motor, transmisión, frenos, dirección, suspensión, eléctrico, neumático, hidráulico",
+      "b": "Cubierta del tanque, válvulas, panel eléctrico, manómetro, condensador, seguridad, indicador de contenido y emplazamiento",
+      "c": "Tanque, mangueras, bombas, filtros, reguladores, medidores, alarmas, controles",
+      "d": "Presión, temperatura, flujo, nivel, velocidad, voltaje, corriente, resistencia",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "En una cadena de falla, si una fuga causa baja presión y conmutación a consumo de líquido, ¿cuál es el efecto final?",
+      "a": "El sistema se estabiliza automáticamente",
+      "b": "Recarga prematura necesaria y riesgo de acumulación de CO2 si la fuga es grande",
+      "c": "El condensador compensa la pérdida",
+      "d": "Las válvulas de seguridad actúan",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué debe hacer el conductor si observa que el condensador trabaja sin parar?",
+      "a": "Es normal, no requiere atención",
+      "b": "Investigar la causa: puede indicar pérdida de refrigerante, suciedad en el serpentín o falla inminente",
+      "c": "Apagar el condensador manualmente",
+      "d": "Aumentar la carga del tanque",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Si un conductor ve que el indicador de contenido baja más rápido de lo esperado, ¿qué cadena de falla debería considerar?",
+      "a": "Solo un mayor consumo del cliente",
+      "b": "Posible fuga que causa pérdida de presión, conmutación a líquido y mayor consumo de producto",
+      "c": "Solo falla del indicador",
+      "d": "Solo falla del condensador",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la relación entre el emplazamiento y los demás subsistemas?",
+      "a": "El emplazamiento solo afecta la estética",
+      "b": "El emplazamiento es la base de todo: ventilación, acceso, protección y seguridad de todos los demás subsistemas dependen de una instalación correcta",
+      "c": "Solo afecta al indicador de contenido",
+      "d": "No tiene relación con otros subsistemas",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Por qué un corte de energía puede terminar en pérdida de producto?",
+      "a": "Porque el tanque se abre automáticamente",
+      "b": "Porque sin energía el condensador no enfría, la presión sube y eventualmente las válvulas de seguridad a 350 PSIG liberan gas",
+      "c": "Porque las celdas de carga dejan de funcionar",
+      "d": "Porque el indicador marca cero",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué significa que '8 subsistemas = un sistema'?",
+      "a": "Que cada uno funciona de forma aislada",
+      "b": "Que todos los subsistemas están interconectados y la falla de uno afecta a los demás",
+      "c": "Que solo se necesitan 8 técnicos",
+      "d": "Que hay 8 tipos de tanque",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "Un conductor llega y encuentra el selector del panel en posición Manual en lugar de Automático. ¿Qué problema puede causar esto?",
+      "a": "Ningún problema, es igual",
+      "b": "El sistema no conmutará automáticamente entre fases de gas y líquido según la presión, afectando el suministro y la presión del tanque",
+      "c": "Solo afecta la lectura del indicador",
+      "d": "Solo afecta la iluminación",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la cadena completa de eventos si el condensador pierde refrigerante hasta la actuación de válvulas de seguridad?",
+      "a": "Pierde refrigerante → se apaga → presión baja → fuga",
+      "b": "Pierde refrigerante → no enfría → presión sube → trabaja sin parar → motor se sobrecalienta → protección térmica lo detiene → presión sube más rápido → alarma a 320 → válvulas de seguridad a 350 PSIG",
+      "c": "Pierde refrigerante → explota → emergencia",
+      "d": "Pierde refrigerante → el panel lo compensa → todo normal",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre la inspección del conductor y la del técnico de servicio?",
+      "a": "No hay diferencia, hacen lo mismo",
+      "b": "El conductor hace inspección visual en cada recarga; el técnico hace revisión completa anual",
+      "c": "El conductor solo verifica el manómetro",
+      "d": "El técnico solo inspecciona el condensador",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Por qué se dice que 'la seguridad es el resultado de que todo funcione correctamente'?",
+      "a": "Porque solo las válvulas de seguridad protegen el sistema",
+      "b": "Porque la seguridad depende del funcionamiento coordinado de todos los subsistemas, no solo del sistema de seguridad",
+      "c": "Porque el conductor es el único responsable",
+      "d": "Porque el emplazamiento es el único factor importante",
+      "correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué debe hacer el conductor si detecta que el condensador de aire del condensador está sucio o bloqueado?",
+      "a": "Ignorarlo, no afecta al sistema",
+      "b": "Limpiarlo con agua a presión sin desconectar la energía",
+      "c": "Reportarlo como posible causa de sobrecalentamiento y falla del condensador, lo cual puede iniciar una cadena de falla hacia sobrepresión",
+      "d": "Apagar el condensador permanentemente",
+      "correcta": "c"
+    }
+  ]
+}
